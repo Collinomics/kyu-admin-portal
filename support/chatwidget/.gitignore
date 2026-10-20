@@ -1,0 +1,4 @@
+supa_secrets.php
+.env
+.env.*
+!.env.example

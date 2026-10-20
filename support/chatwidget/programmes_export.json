@@ -1,0 +1,2274 @@
+[
+  {
+    "id": "ug-bsd",
+    "name": "Bachelor of Business Studies with Education",
+    "overview": "Bachelor of Business Studies with Education is a 3 Years programme offered by the School of Management & Entrepreneurship (day programme code BSD, evening programme code BSE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting, one of which must be in Mathematics, Economics or Entrepreneurship.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-bbk",
+    "name": "Bachelor of Business Administration",
+    "overview": "Bachelor of Business Administration is a 3 Years programme offered by the School of Management & Entrepreneurship (day programme code BBK, evening programme code BKE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting, one of which must be in Mathematics, Economics or Entrepreneurship.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-afd",
+    "name": "Bachelor of Science in Accounting and Finance",
+    "overview": "Bachelor of Science in Accounting and Finance is a 3 Years programme offered by the School of Management & Entrepreneurship (day programme code AFD, evening programme code AFE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting, one of which must be in Mathematics, Economics or Entrepreneurship.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-afw",
+    "name": "Bachelor of Science in Accounting and Finance(attainable at Kabale)",
+    "overview": "Bachelor of Science in Accounting and Finance(attainable at Kabale) is a 3 Years programme offered by the School of Management & Entrepreneurship (day programme code AFW).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting, one of which must be in Mathematics, Economics or Entrepreneurship.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-asd",
+    "name": "Bachelor of Administrative Science",
+    "overview": "Bachelor of Administrative Science is a 3 Years programme offered by the School of Management & Entrepreneurship (day programme code ASD, evening programme code ASE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting, one of which must be in Mathematics, Economics or Entrepreneurship.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-pld",
+    "name": "Bachelor of Procurement and Logistics Management",
+    "overview": "Bachelor of Procurement and Logistics Management is a 3 Years programme offered by the School of Management & Entrepreneurship (day programme code PLD, evening programme code PLE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting, one of which must be in Mathematics, Economics or Entrepreneurship.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-msd",
+    "name": "Bachelor of Management Science",
+    "overview": "Bachelor of Management Science is a 3 Years programme offered by the School of Management & Entrepreneurship (day programme code MSD, evening programme code MSE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting, one of which must be in Mathematics, Economics or Entrepreneurship.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-mfd",
+    "name": "Bachelor of Microfinance",
+    "overview": "Bachelor of Microfinance is a 3 Years programme offered by the School of Management & Entrepreneurship (day programme code MFD, evening programme code MFE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting, one of which must be in Mathematics, Economics or Entrepreneurship.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-vhd",
+    "name": "Bachelor of Vocational Studies in Home Economics with Education",
+    "overview": "Bachelor of Vocational Studies in Home Economics with Education is a 3 Years programme offered by the School of Vocational Studies (day programme code VHD).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting in Foods and Nutrition or Clothing and Textiles.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-hnd",
+    "name": "Bachelor of Science in Human Nutrition and Dietetics",
+    "overview": "Bachelor of Science in Human Nutrition and Dietetics is a 4 Years programme offered by the School of Vocational Studies (day programme code HND).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes in Science subjects at A'level obtained at the same sitting in either Food and Nutrition, Chemistry or Biology.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-hid",
+    "name": "Bachelor of Hotel and Institutional Catering",
+    "overview": "Bachelor of Hotel and Institutional Catering is a 3 Years programme offered by the School of Vocational Studies (day programme code HID, evening programme code HIE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes in Science or Arts subjects at A'level obtained at the same sitting (Applicants with Arts subjects must have Credits in science subjects or home economics at O-Level).",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-bachelor-of-fashion-and-cosmetology",
+    "name": "Bachelor of Fashion and Cosmetology",
+    "overview": "Bachelor of Fashion and Cosmetology is a 3 Years programme offered by the School of Vocational Studies (evening programme code FCE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes in Science subjects at A'level obtained at the same sitting (Clothing and Textiles, Foods and Nutrition, Mathematics, Biology and Chemistry). Applicants with Two (2) Principal Passes in Art subjects shall be admitted if they have a Credit in any of the following subjects; (Biology, Chemistry, Health Science, Clothing and Textiles, Home Economics, Art and Design, Techinical Drawing and Entrepreneurship) at O-Level.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-diploma-in-hotel-and-institutional-cater",
+    "name": "Diploma in Hotel and Institutional Catering",
+    "overview": "Diploma in Hotel and Institutional Catering is a 2 Years programme offered by the School of Vocational Studies (evening programme code DHC).",
+    "structure": "",
+    "admission_requirements": "One (1) Principal Pass in any subject and Two (2) Subsidiary passes at A'level obtained at the same sitting.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-fad",
+    "name": "Diploma in Fashion and Apparel Design",
+    "overview": "Diploma in Fashion and Apparel Design is a 2 Years programme offered by the School of Vocational Studies (day programme code FAD).",
+    "structure": "",
+    "admission_requirements": "One (1) Principal Pass in Art and Two (2) Subsidiary passes at A'level obtained at the same sitting.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-acd",
+    "name": "Bachelor of Adult and Community Education",
+    "overview": "Bachelor of Adult and Community Education is a 3 Years programme offered by the Faculty of Special Needs & Rehabilitation (day programme code ACD, evening programme code ACE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Arts or Science subjects.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-csd",
+    "name": "Bachelor of Community Development and Social Justice",
+    "overview": "Bachelor of Community Development and Social Justice is a 3 Years programme offered by the Faculty of Special Needs & Rehabilitation (day programme code CSD, evening programme code CSE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Arts or Science subjects.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-cbd",
+    "name": "Bachelor of Community Based Rehabilitation",
+    "overview": "Bachelor of Community Based Rehabilitation is a 3 Years programme offered by the Faculty of Special Needs & Rehabilitation (day programme code CBD, evening programme code CBE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Arts or Science subjects.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-cbr",
+    "name": "Diploma in Community Based Rehabilitation",
+    "overview": "Diploma in Community Based Rehabilitation is a 2 Years programme offered by the Faculty of Special Needs & Rehabilitation (day programme code CBR).",
+    "structure": "",
+    "admission_requirements": "One (1) Principal Pass in any subject and Two (2) Subsidiary passes at A'level obtained at the same sitting.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-sli",
+    "name": "Diploma in Sign Language Interpreting",
+    "overview": "Diploma in Sign Language Interpreting is a 2 Years programme offered by the Faculty of Special Needs & Rehabilitation (day programme code SLI).",
+    "structure": "",
+    "admission_requirements": "One (1) Principal Pass in any subject and Two (2) Subsidiary passes at A'level obtained at the same sitting.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-mbr",
+    "name": "Diploma in Mobility and Rehabilitation",
+    "overview": "Diploma in Mobility and Rehabilitation is a 2 Years programme offered by the Faculty of Special Needs & Rehabilitation (day programme code MBR).",
+    "structure": "",
+    "admission_requirements": "One (1) Principal Pass in any subject and Two (2) Subsidiary passes at A'level obtained at the same sitting.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-ltd",
+    "name": "Bachelor of Science in Leather Tanning Technology",
+    "overview": "Bachelor of Science in Leather Tanning Technology is a 3 Years programme offered by the Faculty of Science (day programme code LTD, evening programme code LTE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in either Chemistry, Biology or Physics.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-ptd",
+    "name": "Bachelor of Science Technology - Physics",
+    "overview": "Bachelor of Science Technology - Physics is a 3 Years programme offered by the Faculty of Science (day programme code PTD, evening programme code PTE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting, one of which must be in Physics and any other Science subject.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-ctd",
+    "name": "Bachelor of Science Technology - Chemistry",
+    "overview": "Bachelor of Science Technology - Chemistry is a 3 Years programme offered by the Faculty of Science (day programme code CTD, evening programme code CTE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting, one of which must be in Chemistry and any other Science subject.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-btd",
+    "name": "Bachelor of Science Technology - Biology",
+    "overview": "Bachelor of Science Technology - Biology is a 3 Years programme offered by the Faculty of Science (day programme code BTD, evening programme code BTE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting, one of which must be in Biology and any other Science subject.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-fpd",
+    "name": "Bachelor of Food Science and Processing Technology",
+    "overview": "Bachelor of Food Science and Processing Technology is a 4 Years programme offered by the Faculty of Science (day programme code FPD, evening programme code FPE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting in Chemistry and Biology.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-tcd",
+    "name": "Bachelor of Science inTextile and Clothing Technology",
+    "overview": "Bachelor of Science inTextile and Clothing Technology is a 4 Years programme offered by the Faculty of Science (day programme code TCD).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting in Chemistry, Physics, Mathematics or Clothing and Textile .",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-std",
+    "name": "Bachelor of Science in Statistics",
+    "overview": "Bachelor of Science in Statistics is a 3 Years programme offered by the Faculty of Science (day programme code STD, evening programme code STE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting, one of which must be in Mathematics.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-mcd",
+    "name": "Bachelor of Material and Ceramic Science Technology",
+    "overview": "Bachelor of Material and Ceramic Science Technology is a 3 Years programme offered by the Faculty of Science (day programme code MCD, evening programme code MCE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Physics and Chemistry.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-lmd",
+    "name": "Bachelor of Science in Sport and Leisure Management",
+    "overview": "Bachelor of Science in Sport and Leisure Management is a 3 Years programme offered by the Faculty of Science (day programme code LMD).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in any of the following subjects: Biology, Economics, Geography, Mathematics, Physics, Agriculture or Entrepreneurship.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-bmd",
+    "name": "Bachelor of Environmental Science Technology and Management",
+    "overview": "Bachelor of Environmental Science Technology and Management is a 3 Years programme offered by the Faculty of Science (day programme code BMD, evening programme code BME).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in any of the following subjects: Chemistry, Biology, Physics, Mathematics, Agriculture, Geography, Economics or Technical Drawing.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-esb",
+    "name": "Bachelor of Science with Education (Biological Sciences)",
+    "overview": "Bachelor of Science with Education (Biological Sciences) is a 3 Years programme offered by the Faculty of Science (day programme code ESB).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Chemistry and Biology.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-ese",
+    "name": "Bachelor of Science with Education (Economics)",
+    "overview": "Bachelor of Science with Education (Economics) is a 3 Years programme offered by the Faculty of Science (day programme code ESE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Mathematics and Economics.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-esp",
+    "name": "Bachelor of Science with Education (Physical Sciences)",
+    "overview": "Bachelor of Science with Education (Physical Sciences) is a 3 Years programme offered by the Faculty of Science (day programme code ESP).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Mathematics, Physics or Chemistry.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-sad",
+    "name": "Bachelor of Science in Sport and Exercise Instruction",
+    "overview": "Bachelor of Science in Sport and Exercise Instruction is a 3 Years programme offered by the Faculty of Science (day programme code SAD, evening programme code SEE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in any of the following subjects: Biology, Economics, Geography, Mathematics, Physics, Agriculture, Entrepreneurship.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-stp",
+    "name": "Diploma in Science Technology - Physics",
+    "overview": "Diploma in Science Technology - Physics is a 2 Years programme offered by the Faculty of Science (day programme code STP).",
+    "structure": "",
+    "admission_requirements": "One (1) Principal pass in Physics and Two (2) Subsidiary passes in other subjects at A'level obtained at the same sitting",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-stc",
+    "name": "Diploma in Science Technology - Chemistry",
+    "overview": "Diploma in Science Technology - Chemistry is a 2 Years programme offered by the Faculty of Science (day programme code STC).",
+    "structure": "",
+    "admission_requirements": "One (1) Principal pass in Chemistry and Two (2) Subsidiary passes in other subjects at A'level obtained at the same sitting",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-stb",
+    "name": "Diploma in Science Technology - Biology",
+    "overview": "Diploma in Science Technology - Biology is a 2 Years programme offered by the Faculty of Science (day programme code STB).",
+    "structure": "",
+    "admission_requirements": "One (1) Principal pass in Biology and Two (2) Subsidiary passes in other subjects at A'level obtained at the same sitting",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-diploma-in-food-processing-technology",
+    "name": "Diploma in Food Processing Technology",
+    "overview": "Diploma in Food Processing Technology is a 2 Years programme offered by the Faculty of Science (evening programme code DFP).",
+    "structure": "",
+    "admission_requirements": "One (1) Principal pass in either Chemistry, Biology, Agriculture or Foods and Nutrition and Two (2) Subsidiary passes in other subjects at A'level obtained at the same sitting",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-itd",
+    "name": "Bachelor of Information Technology and Computing",
+    "overview": "Bachelor of Information Technology and Computing is a 3 Years programme offered by the School of Computing and Information Science (day programme code ITD, evening programme code ITE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Mathematics, Physics or Economics",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-lid",
+    "name": "Bachelor of Library and Information Science",
+    "overview": "Bachelor of Library and Information Science is a 3 Years programme offered by the School of Computing and Information Science (day programme code LID, evening programme code LIE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes in any subjects A'level obtained at the same sitting.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-isd",
+    "name": "Bachelor of Information Systems",
+    "overview": "Bachelor of Information Systems is a 3 Years programme offered by the School of Computing and Information Science (day programme code ISD, evening programme code ISE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Economics, Entrepreneurship, Geography or Mathematics and atleast a Credit in Mathematics at O'level.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-gpd",
+    "name": "Bachelor of Science in Oil and Gas Production",
+    "overview": "Bachelor of Science in Oil and Gas Production is a 3 Years programme offered by the Faculty of Engineering (day programme code GPD, evening programme code GPE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Chemistry, Mathematics or Physics.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-chd",
+    "name": "Bachelor of Science in Chemical and Process Engineering",
+    "overview": "Bachelor of Science in Chemical and Process Engineering is a 4 years programme offered by the Faculty of Engineering (day programme code CHD, evening programme code CHE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Chemistry, Physics or Mathematics.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-vtd",
+    "name": "Bachelor of Vocational Studies in Technological Studies with Education.",
+    "overview": "Bachelor of Vocational Studies in Technological Studies with Education. is a 3 Years programme offered by the Faculty of Engineering (day programme code VTD).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Physical Science subjects or Vocational Studies.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-ecd",
+    "name": "Bachelor of Engineering in Building and Civil Engineering",
+    "overview": "Bachelor of Engineering in Building and Civil Engineering is a 4 Years programme offered by the Faculty of Engineering (day programme code ECD, evening programme code ECE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Mathematics and Physics.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-emd",
+    "name": "Bachelor of Engineering in Mechanical and Manufacturing Engineering",
+    "overview": "Bachelor of Engineering in Mechanical and Manufacturing Engineering is a 4 Years programme offered by the Faculty of Engineering (day programme code EMD, evening programme code EME).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Mathematics and Physics.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-etd",
+    "name": "Bachelor of Telecommunication Engineering",
+    "overview": "Bachelor of Telecommunication Engineering is a 4 Years programme offered by the Faculty of Engineering (day programme code ETD, evening programme code ETE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Mathematics and Physics.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-eed",
+    "name": "Bachelor of Engineering in Environmental Engineering and Management",
+    "overview": "Bachelor of Engineering in Environmental Engineering and Management is a 4 Years programme offered by the Faculty of Engineering (day programme code EED, evening programme code EEE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Mathematics and Physics.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-apd",
+    "name": "Bachelor of Engineering in Automotive and Power Engineering",
+    "overview": "Bachelor of Engineering in Automotive and Power Engineering is a 4 Years programme offered by the Faculty of Engineering (day programme code APD, evening programme code APE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Mathematics and Physics.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-ied",
+    "name": "Bachelor of Engineering in Industrial Engineering and Management",
+    "overview": "Bachelor of Engineering in Industrial Engineering and Management is a 4 Years programme offered by the Faculty of Engineering (day programme code IED, evening programme code IEE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Mathematics and Physics.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-bio",
+    "name": "Bachelor of Mechatronics and Biomedical Engineering",
+    "overview": "Bachelor of Mechatronics and Biomedical Engineering is a 4 Years programme offered by the Faculty of Engineering (day programme code BIO, evening programme code BIE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes in Physics and Mathematics at A'level obtained at the same sitting, and atleast a Credit in Chemistry at O-Level",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-bel",
+    "name": "Bachelor of Electrical Engineering",
+    "overview": "Bachelor of Electrical Engineering is a 4 Years programme offered by the Faculty of Engineering (day programme code BEL, evening programme code BET).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Mathematics and Physics.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-dck",
+    "name": "Diploma in Civil and Building Engineering (Tainable at Kabale)",
+    "overview": "Diploma in Civil and Building Engineering (Tainable at Kabale) is a 2 Years programme offered by the Faculty of Engineering (day programme code DCK).",
+    "structure": "",
+    "admission_requirements": "One (1) Principal pass in either Mathematics, Physics and Two (2) Subsidiary passes in Science subjects at A'level obtaned at the same sitting. (Must have passed Mathematics and Physics).",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-diploma-in-water-engineering",
+    "name": "Diploma in Water Engineering",
+    "overview": "Diploma in Water Engineering is a 2 Years programme offered by the Faculty of Engineering (evening programme code DWE).",
+    "structure": "",
+    "admission_requirements": "One (1) Principal pass in either Mathematics, Physics and Two (2) Subsidiary passes in Science subjects at A'level obtaned at the same sitting. (Must have passed Mathematics and Physics).",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-diploma-in-refrigeration-and-air-conditi",
+    "name": "Diploma in Refrigeration and Air Conditioning",
+    "overview": "Diploma in Refrigeration and Air Conditioning is a 2 Years programme offered by the Faculty of Engineering (evening programme code DRA).",
+    "structure": "",
+    "admission_requirements": "One (1) Principal pass in either Mathematics, Physics and Two (2) Subsidiary passes in Science subjects at A'level obtaned at the same sitting. (Must have passed Mathematics and Physics).",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-dbe",
+    "name": "Diploma in Biomedical Engineering",
+    "overview": "Diploma in Biomedical Engineering is a 2 Years programme offered by the Faculty of Engineering (day programme code DBE).",
+    "structure": "",
+    "admission_requirements": "One (1) Principal pass in Science subjects at A'level obtaned at the same sitting, one of which must be in either Physics or Mathematics and Two (2) Subsidiary passes, one of which must be in either Chemistry or Biology. Must have atleast a Credit in Mathematics at O-level.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-ard",
+    "name": "Bachelor of Architecture",
+    "overview": "Bachelor of Architecture is a 5 Years programme offered by the School of Built Environment (day programme code ARD).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Mathematics, Physics, Fine Art or Technical Drawing.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-sld",
+    "name": "Bachelor of Surveying and Land Information Systems",
+    "overview": "Bachelor of Surveying and Land Information Systems is a 4 Years programme offered by the School of Built Environment (day programme code SLD, evening programme code SLE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Mathematics, Physics or Geography.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-ebd",
+    "name": "Bachelor of Science in Building Economics",
+    "overview": "Bachelor of Science in Building Economics is a 4 Years programme offered by the School of Built Environment (day programme code EBD, evening programme code EBE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Mathematics and Physics or Economics.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-bld",
+    "name": "Bachelor of Science in Land Economics",
+    "overview": "Bachelor of Science in Land Economics is a 4 Years programme offered by the School of Built Environment (day programme code BLD, evening programme code BLE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Mathematics and Physics or Economics.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-bgd",
+    "name": "Bachelor of Guidance and Counselling",
+    "overview": "Bachelor of Guidance and Counselling is a 3 Years programme offered by the Faculty of Social Sciences (day programme code BGD, evening programme code BGE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in either Arts or Science subjects.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-ekd",
+    "name": "Bachelor of Arts in Economics",
+    "overview": "Bachelor of Arts in Economics is a 3 Years programme offered by the Faculty of Social Sciences (day programme code EKD, evening programme code EKE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting, one of which must be in Economics. (Excluding Fine Art).",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-brd",
+    "name": "Bachelor of Demography & Reproductive Health",
+    "overview": "Bachelor of Demography & Reproductive Health is a 3 Years programme offered by the Faculty of Social Sciences (day programme code BRD, evening programme code BRE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Mathematics, Economics, Physics, Chemistry, Geography or Biology.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-bdd",
+    "name": "Bachelor of Development Studies",
+    "overview": "Bachelor of Development Studies is a 3 Years programme offered by the Faculty of Social Sciences (day programme code BDD, evening programme code BDE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in either Arts or Science subjects.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-pad",
+    "name": "Bachelor of Public Administration and Resource Governance",
+    "overview": "Bachelor of Public Administration and Resource Governance is a 3 Years programme offered by the Faculty of Social Sciences (day programme code PAD, evening programme code PAE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in either Arts or Science subjects (Excluding Fine Art).",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-ssd",
+    "name": "Bachelor of Arts in Social Sciences",
+    "overview": "Bachelor of Arts in Social Sciences is a 3 Years programme offered by the Faculty of Social Sciences (day programme code SSD, evening programme code SSE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Arts Subjects (Excluding Fine Art).",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-swd",
+    "name": "Bachelor of Social Work and Social Administration",
+    "overview": "Bachelor of Social Work and Social Administration is a 3 Years programme offered by the Faculty of Social Sciences (day programme code SWD, evening programme code SWE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Economics or Entrepreneurship (Excluding Art).",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-ssd-2",
+    "name": "Bachelor of Art in Security and Diplomatic Studies",
+    "overview": "Bachelor of Art in Security and Diplomatic Studies is a 3 Years programme offered by the Faculty of Social Sciences (day programme code SSD, evening programme code SDE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in either Arts or Science subjects.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-bek",
+    "name": "Bachelor of Economics and Statistics",
+    "overview": "Bachelor of Economics and Statistics is a 3 Years programme offered by the Faculty of Social Sciences (day programme code BEK, evening programme code BEE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Economics and Mathematics.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-aad",
+    "name": "Bachelor of Arts in Arts",
+    "overview": "Bachelor of Arts in Arts is a 3 Years programme offered by the Faculty of Arts and Humanities (day programme code AAD, evening programme code AAE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level in Arts subjects obtained at the same sitting (excluding Fine Art and Entrepreneurship).",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-aed",
+    "name": "Bachelor of Arts with Education",
+    "overview": "Bachelor of Arts with Education is a 3 Years programme offered by the Faculty of Arts and Humanities (day programme code AED, evening programme code AEE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level in Arts subjects obtained at the same sitting (excluding Fine Art and Entrepreneurship).",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-bpd",
+    "name": "Bachelor of Performing Arts",
+    "overview": "Bachelor of Performing Arts is a 3 Years programme offered by the Faculty of Arts and Humanities (day programme code BPD, evening programme code BPE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in any subjects.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-hcd",
+    "name": "Bachelor of Cultural Herritage Studies",
+    "overview": "Bachelor of Cultural Herritage Studies is a 3 Years programme offered by the Faculty of Arts and Humanities (day programme code HCD, evening programme code HCE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in any subjects.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-ahd",
+    "name": "Bachelor of Archeology and Heritage Management",
+    "overview": "Bachelor of Archeology and Heritage Management is a 3 Years programme offered by the Faculty of Arts and Humanities (day programme code AHD, evening programme code AHE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in any subjects.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-agd",
+    "name": "Bachelor of Vocational Studies in Agriculture with Education",
+    "overview": "Bachelor of Vocational Studies in Agriculture with Education is a 3 Years programme offered by the Faculty of Agriculture (day programme code AGD, evening programme code AGE).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes in Science subjects at A'level obtained at the same sitting one of which must be in either Biology or Agriculture.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-aid",
+    "name": "Bachelor of Art and Industrial Design",
+    "overview": "Bachelor of Art and Industrial Design is a 3 Years programme offered by the School of Art and Industrial Design (day programme code AID).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting one of which should be in Fine Art.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-bil",
+    "name": "Bachelor of Interior and Landscape Design",
+    "overview": "Bachelor of Interior and Landscape Design is a 3 Years programme offered by the School of Art and Industrial Design (day programme code BIL).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principle passes at A'level obtained at the same sitting one of which must be either Art or Technical drawing, at ‘A’ Level.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-tad",
+    "name": "Bachelor of Textile and Apparel Design",
+    "overview": "Bachelor of Textile and Apparel Design is a 3 Years programme offered by the School of Art and Industrial Design (day programme code TAD).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principle passes at A'level obtained at the same sitting one of which must be either Art or Home Economics.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-cgd",
+    "name": "Bachelor of Computer and Graphic Design",
+    "overview": "Bachelor of Computer and Graphic Design is a 3 Years programme offered by the School of Art and Industrial Design (day programme code CGD).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting one of which should be in Fine Art or Computer Studies.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-vad",
+    "name": "Bachelor of Vocational Studies in Art and Design with Education",
+    "overview": "Bachelor of Vocational Studies in Art and Design with Education is a 3 Years programme offered by the School of Art and Industrial Design (day programme code VAD).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting one of which should be in Fine Art.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-diploma-in-interior-design",
+    "name": "Diploma in Interior Design",
+    "overview": "Diploma in Interior Design is a 2 Years programme offered by the School of Art and Industrial Design (evening programme code DID).",
+    "structure": "",
+    "admission_requirements": "One (1) Principal pass in Fine Art and two (2) Subsidiary passes at A'level obtained at the same sitting.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-diploma-in-textiles-design-and-surface-d",
+    "name": "Diploma in Textiles Design and Surface Design",
+    "overview": "Diploma in Textiles Design and Surface Design is a 2 Years programme offered by the School of Art and Industrial Design (evening programme code TEX).",
+    "structure": "",
+    "admission_requirements": "One (1) Principal pass in Fine Art and two (2) Subsidiary passes at A'level obtained at the same sitting.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-external-learning-center",
+    "name": "External Learning Center",
+    "overview": "External Learning Center offered by the External Learning Center.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-afb",
+    "name": "Bachelor of Science in Accounting and Finance",
+    "overview": "Bachelor of Science in Accounting and Finance is a 3 Years programme offered by the Bushenyi Learning Center (day programme code AFB).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting, one of which must be in Mathematics, Economics or Entrepreneurship.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-plb",
+    "name": "Bachelor of Procurement and Logistics Management",
+    "overview": "Bachelor of Procurement and Logistics Management is a 3 Years programme offered by the Bushenyi Learning Center (day programme code PLB).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting, one of which must be in Mathematics, Economics or Entrepreneurship.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-asb",
+    "name": "Bachelor of Administrative Science",
+    "overview": "Bachelor of Administrative Science is a 3 Years programme offered by the Bushenyi Learning Center (day programme code ASB).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting, one of which must be in Mathematics, Economics or Entrepreneurship.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-bbb",
+    "name": "Bachelor of Business Administration",
+    "overview": "Bachelor of Business Administration is a 3 Years programme offered by the Bushenyi Learning Center (day programme code BBB).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting, one of which must be in Mathematics, Economics or Entrepreneurship.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-aedb",
+    "name": "Bachelor of Arts with Education",
+    "overview": "Bachelor of Arts with Education is a 3 Years programme offered by the Bushenyi Learning Center (day programme code AEDB).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level in Arts subjects obtained at the same sitting (excluding Fine Art and Entrepreneurship).",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-esbb",
+    "name": "Bachelor of Science with Education (Biological Sciences)",
+    "overview": "Bachelor of Science with Education (Biological Sciences) is a 3 Years programme offered by the Bushenyi Learning Center (day programme code ESBB).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Chemistry and Biology.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-eseb",
+    "name": "Bachelor of Science with Education (Economics)",
+    "overview": "Bachelor of Science with Education (Economics) is a 3 Years programme offered by the Bushenyi Learning Center (day programme code ESEB).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Mathematics and Economics.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-espb",
+    "name": "Bachelor of Science with Education (Physical Sciences)",
+    "overview": "Bachelor of Science with Education (Physical Sciences) is a 3 Years programme offered by the Bushenyi Learning Center (day programme code ESPB).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Mathematics, Physics or Chemistry.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-ssdb",
+    "name": "Bachelor of Arts in Social Sciences",
+    "overview": "Bachelor of Arts in Social Sciences is a 3 Years programme offered by the Bushenyi Learning Center (day programme code SSDB).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Arts Subjects (Excluding Fine Art).",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-csdb",
+    "name": "Bachelor of Community Development and Social Justice",
+    "overview": "Bachelor of Community Development and Social Justice is a 3 Years programme offered by the Bushenyi Learning Center (day programme code CSDB).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level in either Arts or Science subjects obtained at the same sitting.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-cbdb",
+    "name": "Bachelor of Community Based Rehabilitation",
+    "overview": "Bachelor of Community Based Rehabilitation is a 3 Years programme offered by the Bushenyi Learning Center (day programme code CBDB).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level in either Arts or Science subjects obtained at the same sitting.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-afs",
+    "name": "Bachelor of Science in Accounting and Finance",
+    "overview": "Bachelor of Science in Accounting and Finance is a 3 Years programme offered by the Soroti Learning Center (day programme code AFS).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting, one of which must be in Mathematics, Economics or Entrepreneurship.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-plds",
+    "name": "Bachelor of Procurement and Logistics Management",
+    "overview": "Bachelor of Procurement and Logistics Management is a 3 Years programme offered by the Soroti Learning Center (day programme code PLDS).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting, one of which must be in Mathematics, Economics or Entrepreneurship.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-ass",
+    "name": "Bachelor of Administrative Science",
+    "overview": "Bachelor of Administrative Science is a 3 Years programme offered by the Soroti Learning Center (day programme code ASS).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting, one of which must be in Mathematics, Economics or Entrepreneurship.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-bbs",
+    "name": "Bachelor of Business Administration",
+    "overview": "Bachelor of Business Administration is a 3 Years programme offered by the Soroti Learning Center (day programme code BBS).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level obtained at the same sitting, one of which must be in Mathematics, Economics or Entrepreneurship.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-aeds",
+    "name": "Bachelor of Arts with Education",
+    "overview": "Bachelor of Arts with Education is a 3 Years programme offered by the Soroti Learning Center (day programme code AEDS).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level in Arts subjects obtained at the same sitting (excluding Fine Art and Entrepreneurship).",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-esbs",
+    "name": "Bachelor of Science with Education (Biological Sciences)",
+    "overview": "Bachelor of Science with Education (Biological Sciences) is a 3 Years programme offered by the Soroti Learning Center (day programme code ESBS).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Chemistry and Biology.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-eses",
+    "name": "Bachelor of Science with Education (Economics)",
+    "overview": "Bachelor of Science with Education (Economics) is a 3 Years programme offered by the Soroti Learning Center (day programme code ESES).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Mathematics and Economics.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-esps",
+    "name": "Bachelor of Science with Education (Physical Sciences)",
+    "overview": "Bachelor of Science with Education (Physical Sciences) is a 3 Years programme offered by the Soroti Learning Center (day programme code ESPS).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Mathematics, Physics or Chemistry.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-ssds",
+    "name": "Bachelor of Arts in Social Sciences",
+    "overview": "Bachelor of Arts in Social Sciences is a 3 Years programme offered by the Soroti Learning Center (day programme code SSDS).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal passes at A'level obtained at the same sitting in Arts Subjects (Excluding Fine Art).",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-csds",
+    "name": "Bachelor of Community Development and Social Justice",
+    "overview": "Bachelor of Community Development and Social Justice is a 3 Years programme offered by the Soroti Learning Center (day programme code CSDS).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level in either Arts or Science subjects obtained at the same sitting.",
+    "career_prospects": ""
+  },
+  {
+    "id": "ug-cbds",
+    "name": "Bachelor of Community Based Rehabilitation",
+    "overview": "Bachelor of Community Based Rehabilitation is a 3 Years programme offered by the Soroti Learning Center (day programme code CBDS).",
+    "structure": "",
+    "admission_requirements": "Two (2) Principal Passes at A'level in either Arts or Science subjects obtained at the same sitting.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gdpg",
+    "name": "PhD in Public Policy and Governance (By Research Only)",
+    "overview": "PhD in Public Policy and Governance (By Research Only) is offered by the Faculty of Social Sciences with fees of 5,600,000/= for national and East African students and 8,400,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Master’s degree in Social Sciences and related fields in Humanities or Bachelor of Education and a relevant Master degree, from a recognized Institution A statement of Purpose and a synopsis of intended research of not more than 1000 words to be submitted to the Directorate of Research and Graduate Training, prior to Provisional Admission.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmcp",
+    "name": "Master of Counseling Psychology",
+    "overview": "Master of Counseling Psychology is offered by the Faculty of Social Sciences with fees of 3,800,000/= for national and East African students and 5,700,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Lower Degree in Bachelor of Psychology, Bachelor of Education, and any other related disciplines from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmeo",
+    "name": "Master of Organizational Psychology",
+    "overview": "Master of Organizational Psychology is offered by the Faculty of Social Sciences with fees of 3,800,000/= for national and East African students and 5,700,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in Bachelor of Psychology, Bachelor of Education, Bachelor of Arts in Arts, Bachelor of Social Work and Social Administration and any other related disciplines from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmap",
+    "name": "Master of Arts in Public Administration and Resource Governance",
+    "overview": "Master of Arts in Public Administration and Resource Governance is offered by the Faculty of Social Sciences with fees of 2,400,,000/= for national and East African students and 3,600,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in Education, Bachelor of Arts in Arts, Bachelor of Arts in Social Science, plus a Post Graduate Diploma in Political Science, Post Graduate Diploma in Public Administration, Post Graduate Diploma in Human Resource or any other related discipline from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmsaw",
+    "name": "Master of Social Work",
+    "overview": "Master of Social Work is offered by the Faculty of Social Sciences with fees of 5.000,000/= for national and East African students and 7,500,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in Social Sciences (e.g. Psychology, Sociology, Social Administration) from a recognized institution, or Health Science related disciplines like Nursing, Palliative Care, Medicine and Public Health from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmaee",
+    "name": "Master of Arts in Economics",
+    "overview": "Master of Arts in Economics is offered by the Faculty of Social Sciences with fees of 3,000,000/= for national and East African students and 4,500,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in Bachelor of Quantitative Economics, Economics and Statistics, Commerce, Business Administration, Microfinance), Bachelor of Arts with Economics, Bachelor of Arts with Education, Bachelor of Science with Education, Bachelor of Arts with Social Sciences (Economics major) Or any other field with strong Economics background from any recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmads",
+    "name": "Master of Arts in Development Studies",
+    "overview": "Master of Arts in Development Studies is offered by the Faculty of Social Sciences with fees of 3,800,000/= for national and East African students and 5,700,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class degree from any recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmasd",
+    "name": "Masters of Arts in Security and Diplomatic Studies",
+    "overview": "Masters of Arts in Security and Diplomatic Studies is offered by the Faculty of Social Sciences with fees of 5,314,000/= for national and East African students and 7,971,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree obtained in any of the following International Relations, Educational Management, Public Administration, Bachelor of Arts in Social Sciences or any other related field in Social Sciences fields from a recognized University/Tertiary Institutions. Science based academic qualifications who possess a minimum of Second Class Lower degree with relevant work experience in Security, Diplomatic and General Public Administration fields shall also be considered.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gpsd",
+    "name": "Post Graduate Diploma in Security and Diplomatic Studies",
+    "overview": "Post Graduate Diploma in Security and Diplomatic Studies is offered by the Faculty of Social Sciences with fees of 1,700,000/= for national and East African students and 2,550,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class degree obtained in any of the following: International Relations, Educational Management, Public Administration, Bachelor of Arts in Social Sciences or any other related field in Social Sciences fields from a recognized Institutions. Science based academic qualifications with a minimum of Second Class Lower Degree but with relevant work experience in Security, Diplomatic and General Public Administration fields shall also be considered.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gdrs",
+    "name": "PhD in Religious Studies(By Research Only)",
+    "overview": "PhD in Religious Studies(By Research Only) is offered by the Faculty of Arts and Humanities with fees of 5,600,000/= for national and East African students and 8,400,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Master of Arts in Religious Studies, Ethics, Peace and Conflict Resolution or any other related fields and, a concept/synopsis of between three to five pages submitted to the Directorate of Research and Graduate Training, prior to Provisional Admission.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmah",
+    "name": "Master of Arts in History",
+    "overview": "Master of Arts in History is offered by the Faculty of Arts and Humanities with fees of 2,400,000/= for national and East African students and 3,600,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in Bachelor of Education, Bachelor of Arts with Education, Bachelor of Arts in Arts, Bachelor of Arts in Social Sciences or any other Bachelor’s Degree having majored in History, from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmar",
+    "name": "Master of Arts in Religious Studies",
+    "overview": "Master of Arts in Religious Studies is offered by the Faculty of Arts and Humanities with fees of 2,400,000/= for national and East African students and 3,600,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in Bachelor of Education, Bachelor of Arts with Education, Bachelor of Arts in Arts, Bachelor of Divinity, Bachelor of Arts and Social Sciences or any other Bachelor Degree having majored in Religious Studies from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmag",
+    "name": "Master of Arts in Geography",
+    "overview": "Master of Arts in Geography is offered by the Faculty of Arts and Humanities with fees of 2,400,000/= for national and East African students and 3,600,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in Bachelor of Education, Bachelor of Arts with Education, Bachelor of Arts in Arts or any other Bachelor’s Degree having majored in Geography from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmal",
+    "name": "Master of Arts in Literature",
+    "overview": "Master of Arts in Literature is offered by the Faculty of Arts and Humanities with fees of 2,400,000/= for national and East African students and 3,600,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in Bachelor of Education (Secondary), Bachelor of Arts with Education, Bachelor of Arts in Arts, Bachelors in Journalism or any other Bachelor’s Degree having majored in Literature from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmam",
+    "name": "Master of Arts in Music",
+    "overview": "Master of Arts in Music is offered by the Faculty of Arts and Humanities with fees of 2,400,000/= for national and East African students and 3,600,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in Bachelor of Education (Music), Bachelor of Arts with Education (Music), Bachelor of Arts in Arts with Music, Bachelor of Performing Arts, Bachelor of Creative Arts, Bachelor of Teacher Education (Music), Bachelor of Arts in Music, Dance and Drama, Bachelor of Music, from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-game",
+    "name": "Master of Arts in Music Education",
+    "overview": "Master of Arts in Music Education is offered by the Faculty of Arts and Humanities with fees of 2,400,000/= for national and East African students and 3,600,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in Bachelor of Education, Bachelor of Arts in Arts (Music) plus a PGDE/PGDTE, Bachelor of Education Primary (Music), Bachelor of Teacher Education (Music), and Bachelor of Arts in Music, Dance and Drama from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gded",
+    "name": "PhD in Education(By Course work & Dissertation)",
+    "overview": "PhD in Education(By Course work & Dissertation) is offered by the School of Education with fees of 5,600,000/= for national and East African students and 8,400,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Master of Education related fields from a recognized Institution and a concept note/synopsis of between three to five pages submitted to the Directorate of Research and Graduate Training prior to Provisional Admission.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmec",
+    "name": "Master of Education in Early Childhood Development",
+    "overview": "Master of Education in Early Childhood Development is offered by the School of Education with fees of 3,000,000/= for national and East African students and 4,500,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in Education with specialization in Early Childhood Education, and any other related field from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmef",
+    "name": "Master of Education in Educational Foundations",
+    "overview": "Master of Education in Educational Foundations is offered by the School of Education with fees of 3,800,000/= for national and East African students and 5,700,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in Bachelor of Education, Bachelor of Teacher Education, from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmed",
+    "name": "Master of Education in Policy, Planning and Management",
+    "overview": "Master of Education in Policy, Planning and Management is offered by the School of Education with fees of 3,000,000/= for national and East African students and 4,500,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in Education, Arts, Humanities, Social Sciences, Science, Engineering, Technology, Law, Medicine, Business Administration, Entrepreneurship, Vocational Studies and Special Needs Education from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gpge",
+    "name": "Postgraduate Diploma in Education",
+    "overview": "Postgraduate Diploma in Education is offered by the School of Education with fees of 1,600,000/= for national and East African students and 2,400,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in any field related to Secondary Education with an accepted subject combination of two (2) teaching subjects at secondary or tertiary level.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gpel",
+    "name": "Postgraduate Diploma in Educational Management and Leadership",
+    "overview": "Postgraduate Diploma in Educational Management and Leadership is offered by the School of Education with fees of 1,600,000/= for national and East African students and 2,400,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Bachelor’s Degree in Humanities or Sciences from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gpgt",
+    "name": "Postgraduate Diploma in Teacher Education",
+    "overview": "Postgraduate Diploma in Teacher Education is offered by the School of Education with fees of 1,600,000/= for national and East African students and 2,400,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in any field related to Bachelor of Teacher Education with accepted subject combination of two (2) teaching subjects offered at Primary School level.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmet",
+    "name": "Master of Science in Construction Technology and Management",
+    "overview": "Master of Science in Construction Technology and Management is offered by the Faculty of Engineering with fees of 6,000,000/= for national and East African students and 9,000,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Upper from a four-year Bachelor’s degree or its equivalent from a recognised University/Institution in the following disciplines: Civil and Building Engineering; Environmental Eengineering; Building Economics; Quantity Surveying; Physical and Urban Planning; Architecture; Second Lower, Honors’ Bachelor’s Degree in Civil Engineering from a recognized Institution and relevant work experience of at least two years; Pass Degree in Civil Engineering plus a Postgraduate Diploma in Civil Engineering or related field from a recognized Institution and at least three years’ relevant work experience.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmem",
+    "name": "Master of Science in Advanced Manufacturing Systems Engineering",
+    "overview": "Master of Science in Advanced Manufacturing Systems Engineering is offered by the Faculty of Engineering with fees of 6,000,000/= for national and East African students and 9,000,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Bachelor’s Degree from a recognized Institution in any of the following fields: Bachelor of Engineering in Mechanical and Manufacturing Engineering, Bachelor of Science in Mechanical Engineering, Bachelor of Manufacturing Engineering, Bachelor of Engineering in Automotive and Power Engineering, Bachelor of Industrial Engineering and Management, Bachelor of Science in Oil and Gas Exploration Engineering, Bachelor of Science in Oil and Gas Production Engineering, Bachelor of Science in Agro-Processing Engineering, and Bachelor of Science in Chemical Engineering.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmes",
+    "name": "Master of Science in Structural Engineering",
+    "overview": "Master of Science in Structural Engineering is offered by the Faculty of Engineering with fees of 6,000,000/= for national and East African students and 9,000,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Upper Honors Bachelor’s Degree in Civil and Building Engineering; Environmental Engineering of Kyambogo University or its equivalent from a recognized Institution; or Second Class Lower Honors Bachelor’s Degree in Civil and Building Engineering, Environmental Engineering of Kyambogo University or its equivalent from a recognized Institution and relevant work experience of at least two years; or Pass Degree in Civil Engineering plus a Postgraduate Diploma in Structural Engineering or its equivalent from a recognized Institution and at least three years relevant work experience.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmew",
+    "name": "Master of Science in Water and Sanitation Engineering",
+    "overview": "Master of Science in Water and Sanitation Engineering is offered by the Faculty of Engineering with fees of 6,000,000/= for national and East African students and 9,000,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second-class Upper Honors Bachelor’s Degree in Civil and Building Engineering, Environmental Engineering or its equivalent from a recognized Institution. Or Second class Lower Honors Bachelor’s Degree in Civil and Building Engineering, Environmental Engineering or its equivalent from a recognized Institution and relevant work experience of at least two years, or Pass Degree in Civil and Building Engineering, Environmental Engineering, plus a Postgraduate Diploma in Civil Engineering and Building Engineering, Environmental Engineering or its equivalent from a recognized Institution and at least three years relevant work experience.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gpem",
+    "name": "Post Graduate Diploma in Manufacturing System in Engineering",
+    "overview": "Post Graduate Diploma in Manufacturing System in Engineering is offered by the Faculty of Engineering with fees of 6,000,000/= for national and East African students and 9,000,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Bachelor’s Degree from a recognized Institution in any of the following fields: Bachelor of Engineering in Mechanical and Manufacturing Engineering, Bachelor of Science in Mechanical Engineering, Bachelor of Manufacturing Engineering, Bachelor of Engineering in Automotive and Power Engineering, Bachelor of Industrial Engineering and Management, Bachelor of Science in Oil and Gas Exploration Engineering, Bachelor of Science in Oil and Gas Production Engineering, Bachelor of Science in Agro-Processing Engineering, and Bachelor of Science in Chemical Engineering.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gdft",
+    "name": "PhD in Food Technology( By Research Only)",
+    "overview": "PhD in Food Technology( By Research Only) is offered by the Faculty of Science with fees of 6,000,000/= for national and East African students and 9,000,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Master’s Degree in relevant fields e.g. Masters in Food Science and Technology, Masters in Nutrition or related discipline from recognized Institution and a concept/synopsis of between three to five pages submitted to the Directorate of Research and Graduate Training prior to Provisional Admission.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gdsb",
+    "name": "PhD in Biological Sciences( By Research Only)",
+    "overview": "PhD in Biological Sciences( By Research Only) is offered by the Faculty of Science with fees of 6,000,000/= for national and East African students and 9,000,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Master’s Degree in relevant field of Biological Sciences such as Botany, Zoology, Biotechnology, Agricultural Sciences, Veterinary Science, Biochemistry, Forestry, Food Science, Microbiology, Public Health, Paleontology, Environmental Science, Health Science or related discipline from recognized Institution and a Concept/Synopsis of between three to five pages submitted to the Directorate of Research and Graduate Training prior to Provisional Admission.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gdsp",
+    "name": "PhD in Physics(By Research Only)",
+    "overview": "PhD in Physics(By Research Only) is offered by the Faculty of Science with fees of 6,000,000/= for national and East African students and 9,000,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Master’s Degree in field of Physics from recognized institution and a concept/synopsis of between three to five pages submitted to the Directorate of Research and Graduate Training prior to Provisional Admission.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gdsc",
+    "name": "PhD in Chemistry(By Research Only)",
+    "overview": "PhD in Chemistry(By Research Only) is offered by the Faculty of Science with fees of 6,000,000/= for national and East African students and 9,000,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Master’s Degree in relevant fields e.g. Master of Science in Chemistry or related discipline from recognized Institution and a concept/synopsis of between three to five pages submitted to the Directorate of Research and Graduate Training prior to Provisional Admission.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gdss",
+    "name": "PhD in Sport Science(By Research Only)",
+    "overview": "PhD in Sport Science(By Research Only) is offered by the Faculty of Science with fees of 6,000,000/= for national and East African students and 9,000,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Master’s Degree in Sport Science, Master of Physical Education, Master of Sports Management, Others Masters in the fields of Exercise Science, Sports Coaching, Fitness, Sports Medicine, Health Education, Recreation Hospitality and Tourism from recognized Institution and a concept/synopsis of between three to five pages submitted to the Directorate of Research and Graduate Training prior to Provisional Admission.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmch",
+    "name": "Master of Science in Chemistry",
+    "overview": "Master of Science in Chemistry is offered by the Faculty of Science with fees of 3,000,000/= for national and East African students and 4,500,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in Bachelor of Science Chemistry With Education Majoring in Chemistry, Bachelor of Science Technology-Chemistry, Bachelor of Industrial Chemistry, Bachelor of Science in Chemical Engineering, Bachelor of Biochemistry Or any other related discipline from recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmsm",
+    "name": "Master of Science in Conservation and Natural Resource Management",
+    "overview": "Master of Science in Conservation and Natural Resource Management is offered by the Faculty of Science with fees of 3,000,000/= for national and East African students and 4,500,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in Bachelor Science Technology, Bachelor of Science (Chemistry, Biology, Physics, and Geography), Bachelor of Environmental Science Technology, Bachelor of Science in Conservation Biology and Environmental Engineering, Bachelor of Science in (Botany, Biochemistry, Biology, Chemistry, Laboratory Technology, Demography, Statistics, Economics) or any other related discipline from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmft",
+    "name": "Master of Science in Food Technology",
+    "overview": "Master of Science in Food Technology is offered by the Faculty of Science with fees of 5,000,000/= for national and East African students and 7,500,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in Bachelor of Food Science and Technology, Bachelor of Food Processing Technology, Bachelor of Food and Nutrition, Bachelor of Science in (Biochemistry, Biology, Chemistry, Public Health, Veterinary Medicine) or other related discipline to Food Technology from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmsp",
+    "name": "Master of Science in Physics",
+    "overview": "Master of Science in Physics is offered by the Faculty of Science with fees of 3,000,000/= for national and East African students and 4,500,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Upper Degree in Bachelor of Education (Physical), Bachelor of Science with Education (Physical), Bachelor of Science (Physical), Bachelor of Science Technology – Physics or any Bachelor’s Degree in the field of Physics, from a recognized Institution and the student must have done his/her Undergraduate Research/Project in Physics discipline.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmss",
+    "name": "Master of Science in Sport Science",
+    "overview": "Master of Science in Sport Science is offered by the Faculty of Science with fees of 3,000,000/= for national and East African students and 4,500,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in Bachelor of Sport Science, Bachelor of Science in Physical Education, Bachelor of Sports Management, Bachelor of Sports and Leisure Management or any other related field of Sport and Recreation Industry from a recognized Institution. Postgraduate Diploma in Physical Education, Sports Management or a related field. Second Class Degree with a Diploma in Physical Education, Sports Management, Sports Coaching, Hospitality, Human Nutrition, Kinesology and Tourism Management. Second Class Degree with a Diploma in Physical Education, Sports Management, Sports Coaching, Hospitality, Human Nutrition, Kinesology and Tourism Management.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmapm",
+    "name": "Master of Science in Applied Mathematics",
+    "overview": "Master of Science in Applied Mathematics is offered by the Faculty of Science with fees of 4, 000, 000/= for national and East African students and 6,000, 000/= for international students.",
+    "structure": "",
+    "admission_requirements": "A Second Class Bachelor’s degree in the following disciplines:",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmsph",
+    "name": "Master of Public Health",
+    "overview": "Master of Public Health is offered by the Faculty of Science with fees of 4,000,000/= for national and East African students and 6,000,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in Bachelor of Health Sciences in Human and Veterinary Medicine, Dentistry and Nursing, Bachelor of Social Sciences such as Social Work, Sociology, Economics, Demography and Statistics, Bachelor of Sports Management, Bachelor of Biological Sciences (Environmental Sciences, Biology, Laboratory Sciences Sports and Leisure Management or any other related field from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-pdfs",
+    "name": "Postgraduate Diploma in Food Safety Management",
+    "overview": "Postgraduate Diploma in Food Safety Management is offered by the Faculty of Science with fees of 1,600,000/= for national and East African students and 2,400,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Bachelor’s degree in Bachelor of Food Science and Technology, Bachelor of Science in (Chemistry, Agriculture, Biological Sciences, and Biochemistry) or any other related discipline from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-pges",
+    "name": "Postgraduate Diploma in Physical Education and Sports",
+    "overview": "Postgraduate Diploma in Physical Education and Sports is offered by the Faculty of Science with fees of 1,600,000/= for national and East African students and 2,400,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in the field of either Arts or Sciences with practical experience in Sport at School, College, University or Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-pgdsm",
+    "name": "Postgraduate Diploma in Sports Management",
+    "overview": "Postgraduate Diploma in Sports Management is offered by the Faculty of Science with fees of 1,400,000/= for national and East African students and 2,100,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in related field suitable for a Career Development in Sports Management related field from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gdsn",
+    "name": "PhD in Special Needs Education (By Course work and Dissertation)",
+    "overview": "PhD in Special Needs Education (By Course work and Dissertation) is offered by the Faculty of Special Needs and Rehabilitation with fees of 6400000 for national and East African students and 9600000 for international students.",
+    "structure": "",
+    "admission_requirements": "Master of Special Needs Education, Master of Education, Master of Adult and Community Education, Master of Science in Disability Studies Degree from a recognized Institution with a synopsis of between 4–8-pages indicating the area of research interest. Three (3) referees - at least one must be familiar with the applicant’s academic work at Master’s level.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmsn",
+    "name": "Master in Special Needs Education",
+    "overview": "Master in Special Needs Education is offered by the Faculty of Special Needs and Rehabilitation with fees of 3,000,000/= for national and East African students and 4,500,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in the field of Special Needs Education, Community Based Rehabilitation, Adult and Community Education and Social Work and Community Development, Education or any other Degree with Postgraduate Diploma in Special Needs Education.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmds",
+    "name": "Master of Disability Studies and Inclusive Development",
+    "overview": "Master of Disability Studies and Inclusive Development is offered by the Faculty of Special Needs and Rehabilitation with fees of 4000000 for national and East African students and 6000000 for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Bachelor’s Degree or its equivalent from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gpcr",
+    "name": "Postgraduate Diploma in Community Based Rehabilitation",
+    "overview": "Postgraduate Diploma in Community Based Rehabilitation is offered by the Faculty of Special Needs and Rehabilitation with fees of 1,400,000/= for national and East African students and 2,100,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Honors Degree from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gpsn",
+    "name": "Postgraduate Diploma in Special Needs Education",
+    "overview": "Postgraduate Diploma in Special Needs Education is offered by the Faculty of Special Needs and Rehabilitation with fees of 1,400,000/= for national and East African students and 2,100,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Honors Degree in a related field suitable for Service in Special Needs Education and Rehabilitation.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmba",
+    "name": "Master of Business Administration",
+    "overview": "Master of Business Administration is offered by the School of Management and Entrepreneurship with fees of 4,000,000/= for national and East African students and 6,000,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Bachelor’s Degree in any field of study from a recognized Institution. GMAT Examination shall be administered by Kyambogo University on the date to be communicated by the Directorate of Research and Graduate Training. Shortlisted applicants shall pay a non-refundable fee of 50,000/= UGX for GMAT test.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmsc",
+    "name": "Master of Science in Procurement and Supply Chain Management",
+    "overview": "Master of Science in Procurement and Supply Chain Management is offered by the School of Management and Entrepreneurship with fees of 4,000,000/= for national and East African students and 6,000,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Lower in either Procurement and Supply Chain Management or a related qualification from a recognized Institution and a professional qualification in the area of Purchasing and Supplies Management or Procurement or a First Degree and a Postgraduate Diploma in Procurement, Supply Chain Management, Logistics, Inventory Management and Stores and Warehousing.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmop",
+    "name": "Master of Science in Organization and Public Sector Management",
+    "overview": "Master of Science in Organization and Public Sector Management is offered by the School of Management and Entrepreneurship with fees of 4,000,000/= for national and East African students and 6,000,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Lower Bachelor’s or its equivalent from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gdad",
+    "name": "PhD in Design and Visual Culture (By Course work and Dissertation)",
+    "overview": "PhD in Design and Visual Culture (By Course work and Dissertation) is offered by the School of Art and Industrial Design with fees of 10,000,000/= for national and East African students and 15,000,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Master’s Degree or its equivalent in the following specialties: Fine Art, Art and Design, Performing Arts, Architecture, Material Culture, Curatorship/Museology, Archaeology, Anthropology, History and Public Health obtained from Institution of Higher Learning recognized by the National Council for Higher Education and a concept/synopsis of intended research of not more than 1000 words must accompany the application.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmaid",
+    "name": "Master of Art and Industrial Design",
+    "overview": "Master of Art and Industrial Design is offered by the School of Art and Industrial Design with fees of 3,000,000/= for national and East African students and 4,500,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Bachelor’s Degree in a field related to Art such as Bachelor of Vocational studies in Art and Design with Education, Bachelor of Art and Industrial Design, Bachelor of Apparel and Landscape Design, Bachelor of Interior and Industrial Design, Bachelor of Computer Graphics or any other related field from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gmhn",
+    "name": "Master of Science in Human Nutrition",
+    "overview": "Master of Science in Human Nutrition is offered by the School of Vocational Studies with fees of 5,000,000/= for national and East African students and 7,500,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Upper in Bachelor of Science in (Human Nutrition, Dietetics, Agricultural Education, Human Medicines, Biological Sciences, Food Science, Veterinary Medicine Food Processing), Nursing or any other related fields from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gaee",
+    "name": "Master of Science in Agricultural Education and Extension",
+    "overview": "Master of Science in Agricultural Education and Extension is offered by the Faculty of Agriculture with fees of 5,000,000/= for national and East African students and 7,500,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in Bachelor of Agriculture, Bachelor of Vocational Studies in Agriculture with Education, Bachelor of Environmental Science, Bachelor of Agricultural Land Use Management or any other related field from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gain",
+    "name": "Master of Science in Animal Production",
+    "overview": "Master of Science in Animal Production is offered by the Faculty of Agriculture with fees of 5,000,000/= for national and East African students and 7,500,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in Bachelor of Science in Agriculture, Bachelor of Science in Human Nutrition, Bachelor of Science in Botany and Zoology, Bachelor of Science in Biological Science or any other related field from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-gass",
+    "name": "Master of Science in Soil Science",
+    "overview": "Master of Science in Soil Science is offered by the Faculty of Agriculture with fees of 5,000,000/= for national and East African students and 7,500,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in Bachelor of Science in Agriculture, Bachelor of Science in Vocational Studies in Agriculture with Education, Bachelor of Science in Environmental Science, Bachelor of Science in Agricultural Land Use Management or any other related field from a recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "pg-ghcs",
+    "name": "Master of Science in Crop Science",
+    "overview": "Master of Science in Crop Science is offered by the Faculty of Agriculture with fees of 5,000,000/= for national and East African students and 7,500,000/= for international students.",
+    "structure": "",
+    "admission_requirements": "Second Class Degree in Bachelor of Science in Vocational Studies in Agriculture with Education, BED (Agriculture), BSc (Agriculture) or any other related field from recognized Institution.",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-2-bishop-willis-p-t-c",
+    "name": "BISHOP WILLIS P.T.C",
+    "overview": "BISHOP WILLIS P.T.C is a Public institution located in Iganga affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-3-kibuli-p-t-c",
+    "name": "KIBULI P.T.C",
+    "overview": "KIBULI P.T.C is a Public institution located in Kampala affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-4-arua-p-t-c",
+    "name": "ARUA P.T.C",
+    "overview": "ARUA P.T.C is a Public institution located in Arua affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-5-bishop-stuart-p-t-c-kibingo",
+    "name": "BISHOP STUART P.T.C KIBINGO",
+    "overview": "BISHOP STUART P.T.C KIBINGO is a Public institution located in Mbarara affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-6-buhungiro-p-t-c",
+    "name": "BUHUNGIRO P.T.C",
+    "overview": "BUHUNGIRO P.T.C is a Public institution located in Isingiro affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-7-bulera-core-p-t-c",
+    "name": "BULERA CORE P.T.C",
+    "overview": "BULERA CORE P.T.C is a Public institution located in Hoima affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-8-bundibugyo-p-t-c",
+    "name": "BUNDIBUGYO P.T.C",
+    "overview": "BUNDIBUGYO P.T.C is a Public institution located in Bundibugyo affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-9-bushenyi-p-t-c",
+    "name": "BUSHENYI P.T.C",
+    "overview": "BUSHENYI P.T.C is a Public institution located in Bushenyi affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-10-busikho-p-t-c",
+    "name": "BUSIKHO P.T.C",
+    "overview": "BUSIKHO P.T.C is a Public institution located in Busia affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-11-busubizi-p-t-c",
+    "name": "BUSUBIZI P.T.C",
+    "overview": "BUSUBIZI P.T.C is a Public institution located in Mityana affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-12-bwera-p-t-c",
+    "name": "BWERA P.T.C",
+    "overview": "BWERA P.T.C is a Public institution located in Bwera affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-13-canon-apolo-p-t-c",
+    "name": "CANON APOLO P.T.C",
+    "overview": "CANON APOLO P.T.C is a Public institution located in Fort Portal affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-14-canon-lawrence-p-t-c-boroboro",
+    "name": "CANON LAWRENCE P.T.C BOROBORO",
+    "overview": "CANON LAWRENCE P.T.C BOROBORO is a Public institution located in Lira affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-15-christ-the-king-p-t-c",
+    "name": "CHRIST THE KING P.T.C",
+    "overview": "CHRIST THE KING P.T.C is a Public institution located in Gulu affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-16-gulu-p-t-c",
+    "name": "GULU P.T.C",
+    "overview": "GULU P.T.C is a Public institution located in Gulu affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-17-ibanda-p-t-c",
+    "name": "IBANDA P.T.C",
+    "overview": "IBANDA P.T.C is a Public institution located in Ibanda affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-18-jinja-p-t-c-wanyange",
+    "name": "JINJA P.T.C WANYANGE",
+    "overview": "JINJA P.T.C WANYANGE is a Public institution located in Jinja affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-19-kabale-bukinda-p-t-c",
+    "name": "KABALE-BUKINDA P.T.C",
+    "overview": "KABALE-BUKINDA P.T.C is a Public institution located in Kabale affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-20-kabukunge-p-t-c",
+    "name": "KABUKUNGE P.T.C",
+    "overview": "KABUKUNGE P.T.C is a Public institution located in Masaka affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-21-kabulasoke-core-p-t-c",
+    "name": "KABULASOKE CORE P.T.C",
+    "overview": "KABULASOKE CORE P.T.C is a Public institution located in Gomba affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-22-kabwangasi-p-t-c",
+    "name": "KABWANGASI P.T.C",
+    "overview": "KABWANGASI P.T.C is a Public institution located in Butebo affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-23-kaliro-p-t-c",
+    "name": "KALIRO P.T.C",
+    "overview": "KALIRO P.T.C is a Public institution located in Kaliro affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-24-kamurasi-p-t-c",
+    "name": "KAMURASI P.T.C",
+    "overview": "KAMURASI P.T.C is a Public institution located in Masindi affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-25-kapchorwa-p-t-c",
+    "name": "KAPCHORWA P.T.C",
+    "overview": "KAPCHORWA P.T.C is a Public institution located in Kapchorwa affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-26-kisoro-p-t-c",
+    "name": "KISORO P.T.C",
+    "overview": "KISORO P.T.C is a Public institution located in Kisoro affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-27-kitgum-p-t-c",
+    "name": "KITGUM P.T.C",
+    "overview": "KITGUM P.T.C is a Public institution located in Kitgum affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-28-kiyoora-p-t-c",
+    "name": "KIYOORA P.T.C",
+    "overview": "KIYOORA P.T.C is a Public institution located in Ntungamo affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-29-kotido-p-t-c",
+    "name": "KOTIDO P.T.C",
+    "overview": "KOTIDO P.T.C is a Public institution located in Kotido affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-30-loro-core-p-t-c",
+    "name": "LORO CORE P.T.C",
+    "overview": "LORO CORE P.T.C is a Public institution located in Oyam affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-31-moroto-p-t-c",
+    "name": "MOROTO P.T.C",
+    "overview": "MOROTO P.T.C is a Public institution located in Moroto affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-32-mukuju-core-p-t-c",
+    "name": "MUKUJU CORE P.T.C",
+    "overview": "MUKUJU CORE P.T.C is a Public institution located in Tororo affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-33-ndegeya-core-p-t-c",
+    "name": "NDEGEYA CORE P.T.C",
+    "overview": "NDEGEYA CORE P.T.C is a Public institution located in Masaka affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-34-nakaseke-core-p-t-c",
+    "name": "NAKASEKE CORE P.T.C",
+    "overview": "NAKASEKE CORE P.T.C is a Public institution located in Nakaseke affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-35-moyo-erepi-p-t-c",
+    "name": "MOYO-EREPI P.T.C",
+    "overview": "MOYO-EREPI P.T.C is a Public institution located in Moyo affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-36-paidha-p-t-c",
+    "name": "PAIDHA P.T.C",
+    "overview": "PAIDHA P.T.C is a Public institution located in Zombo affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-37-rakai-p-t-c-bikira",
+    "name": "RAKAI P.T.C BIKIRA",
+    "overview": "RAKAI P.T.C BIKIRA is a Public institution located in Rakai affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-38-rukungiri-p-t-c",
+    "name": "RUKUNGIRI P.T.C",
+    "overview": "RUKUNGIRI P.T.C is a Public institution located in Rukungiri affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-39-sancta-maria-p-t-c-nkokonjeru",
+    "name": "SANCTA MARIA P.T.C NKOKONJERU",
+    "overview": "SANCTA MARIA P.T.C NKOKONJERU is a Public institution located in Buikwe affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-40-shimoni-p-t-c",
+    "name": "SHIMONI P.T.C",
+    "overview": "SHIMONI P.T.C is a Public institution located in Wakiso affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-41-soroti-p-t-c",
+    "name": "SOROTI P.T.C",
+    "overview": "SOROTI P.T.C is a Public institution located in Soroti affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-42-st-aloysius-p-t-c-ngora",
+    "name": "ST.ALOYSIUS P.T.C NGORA",
+    "overview": "ST.ALOYSIUS P.T.C NGORA is a Public institution located in Ngora affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-43-st-augustine-p-t-c-butiiti",
+    "name": "ST.AUGUSTINE P.T.C BUTIITI",
+    "overview": "ST.AUGUSTINE P.T.C BUTIITI is a Public institution located in Kyenjojo affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-44-st-john-bosco-p-t-c-lodonga",
+    "name": "ST.JOHN BOSCO P.T.C LODONGA",
+    "overview": "ST.JOHN BOSCO P.T.C LODONGA is a Public institution located in Yumbe affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-45-st-john-bosco-p-t-c-nyondo",
+    "name": "ST.JOHN BOSCO P.T.C NYONDO",
+    "overview": "ST.JOHN BOSCO P.T.C NYONDO is a Public institution located in Mbale affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-46-st-mary-s-p-t-c-bukedea",
+    "name": "ST.MARY’S P.T.C BUKEDEA",
+    "overview": "ST.MARY’S P.T.C BUKEDEA is a Public institution located in Bukedea affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-47-bikungu-p-t-c",
+    "name": "BIKUNGU P.T.C",
+    "overview": "BIKUNGU P.T.C is a Private institution located in Mitooma affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-48-busoga-university",
+    "name": "BUSOGA UNIVERSITY",
+    "overview": "BUSOGA UNIVERSITY is a Private institution located in Kamuli affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-49-kampala-university",
+    "name": "KAMPALA UNIVERSITY",
+    "overview": "KAMPALA UNIVERSITY is a Private institution located in Masaka affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-50-kitabi-ptc",
+    "name": "KITABI PTC",
+    "overview": "KITABI PTC is a Private institution located in Bushenyi affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-51-lutete-ptc",
+    "name": "LUTETE PTC",
+    "overview": "LUTETE PTC is a Private institution located in Wobulenzi affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-52-namutamba-ptc",
+    "name": "NAMUTAMBA PTC",
+    "overview": "NAMUTAMBA PTC is a Private institution located in Mityana affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-53-st-john-the-baptist-p-t-c-ggaba",
+    "name": "ST.JOHN THE BAPTIST P.T.C GGABA",
+    "overview": "ST.JOHN THE BAPTIST P.T.C GGABA is a Private institution located in Kampala affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-54-walugogo-ptc",
+    "name": "WALUGOGO PTC",
+    "overview": "WALUGOGO PTC is a Private institution located in Iganga affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-55-st-paul-ptc-nazigo",
+    "name": "ST. PAUL PTC NAZIGO",
+    "overview": "ST. PAUL PTC NAZIGO is a Private institution located in Kayunga affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-56-magherita-ptc",
+    "name": "MAGHERITA PTC",
+    "overview": "MAGHERITA PTC is a Private institution located in Kitgum affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-57-blessed-jildo-irwa-ptc",
+    "name": "BLESSED JILDO IRWA PTC",
+    "overview": "BLESSED JILDO IRWA PTC is a Private institution located in kitgum affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-58-ymca-primary-teachers-college",
+    "name": "YMCA PRIMARY TEACHERS’ COLLEGE",
+    "overview": "YMCA PRIMARY TEACHERS’ COLLEGE is a Private institution located in Kampala affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-59-friedis-memorial-ptc",
+    "name": "FRIEDIS MEMORIAL PTC",
+    "overview": "FRIEDIS MEMORIAL PTC is a Private institution located in Lira affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-60-treasure-ptc",
+    "name": "TREASURE PTC",
+    "overview": "TREASURE PTC is a Private institution located in Lira affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-61-kamuli-ptc",
+    "name": "KAMULI PTC",
+    "overview": "KAMULI PTC is a Private institution located in Kamuli affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-62-butiru-ptc",
+    "name": "BUTIRU PTC",
+    "overview": "BUTIRU PTC is a Private institution located in Manafwa affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-63-busia-ptc",
+    "name": "BUSIA PTC",
+    "overview": "BUSIA PTC is a Private institution located in Busia affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-64-st-martin-de-porres-ptc",
+    "name": "ST.MARTIN DE PORRES PTC",
+    "overview": "ST.MARTIN DE PORRES PTC is a Private institution located in Pallisa affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-65-noor-ptc",
+    "name": "NOOR PTC",
+    "overview": "NOOR PTC is a Private institution located in Iganga affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-66-dr-keith-waddel-ptc",
+    "name": "DR.KEITH WADDEL PTC",
+    "overview": "DR.KEITH WADDEL PTC is a Private institution located in Kasese affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Grade III Teachers Certificate in Primary Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-67-ntc-kaliro",
+    "name": "NTC Kaliro",
+    "overview": "NTC Kaliro is a Public institution located in Kaliro affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Diploma in Education Primary, Diploma in Education Secondary.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-68-ntc-kabale",
+    "name": "NTC Kabale",
+    "overview": "NTC Kabale is a Public institution located in Kabale affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Diploma in Education Primary, Diploma in Education Secondary.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-69-ntc-mubende",
+    "name": "NTC Mubende",
+    "overview": "NTC Mubende is a Public institution located in Mubende affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Diploma in Education Primary, Diploma in Education Secondary.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-70-ntc-unyama",
+    "name": "NTC Unyama",
+    "overview": "NTC Unyama is a Public institution located in Gulu affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Diploma in Education Primary, Diploma in Education Secondary.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-71-ntc-muni",
+    "name": "NTC Muni",
+    "overview": "NTC Muni is a Public institution located in Arua affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Diploma in Education Primary, Diploma in Education Secondary.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-72-ankole-western-institute-of-science-and-",
+    "name": "Ankole Western Institute of Science and Technology",
+    "overview": "Ankole Western Institute of Science and Technology is a Private institution located in Bushenyi affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Diploma in Education Primary, Diploma in Education Secondary.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-73-kabalega-college-masindi",
+    "name": "Kabalega College Masindi",
+    "overview": "Kabalega College Masindi is a Private institution located in Masindi affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Diploma in Education Primary, Diploma in Education Secondary.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-74-adjumani-nursery-teacher-training-instit",
+    "name": "Adjumani Nursery Teacher Training Institute",
+    "overview": "Adjumani Nursery Teacher Training Institute is a Private institution located in Adjumani affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-75-arua-nursery-teachers-college",
+    "name": "Arua Nursery Teachers College",
+    "overview": "Arua Nursery Teachers College is a Private institution located in Arua affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood development and Diploma in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-76-bishop-stensera-teachers-college",
+    "name": "Bishop Stensera Teachers College",
+    "overview": "Bishop Stensera Teachers College is a Private institution located in Masaka affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-77-buikwe-self-help-institute",
+    "name": "Buikwe Self –help institute",
+    "overview": "Buikwe Self –help institute is a Private institution located in Buikwe affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-78-cab-nursery-teachers-institute-namutamba",
+    "name": "Cab Nursery Teachers Institute-Namutamba",
+    "overview": "Cab Nursery Teachers Institute-Namutamba is a Private institution located in Namutamba affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-79-christian-child-care-programme-mbale",
+    "name": "Christian Child Care Programme Mbale",
+    "overview": "Christian Child Care Programme Mbale is a Private institution located in Mbale affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-80-kitgum-global-institute",
+    "name": "Kitgum Global Institute",
+    "overview": "Kitgum Global Institute is a Private institution located in Kitgum affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-81-hoima-nursery-teacher-training-centre",
+    "name": "Hoima Nursery Teacher Training Centre",
+    "overview": "Hoima Nursery Teacher Training Centre is a Private institution located in Hoima affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-82-hope-ecd-kumi",
+    "name": "Hope ECD Kumi",
+    "overview": "Hope ECD Kumi is a Private institution located in Kumi affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Education Early Childhood development and Diploma in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-83-john-fisher-teachers-training-institute",
+    "name": "John Fisher Teachers Training Institute",
+    "overview": "John Fisher Teachers Training Institute is a Private institution located in Lira affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-84-ntc-kabale",
+    "name": "NTC Kabale",
+    "overview": "NTC Kabale is a Public institution located in Kabale affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Education Early Childhood development and Diploma in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-85-kabulasoke-primary-teachers-college",
+    "name": "Kabulasoke Primary Teachers College",
+    "overview": "Kabulasoke Primary Teachers College is a Private institution located in Kabulasoke affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-86-madrasa-ecd-institute",
+    "name": "Madrasa ECD Institute",
+    "overview": "Madrasa ECD Institute is a Private institution located in Kampala affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-87-kakoba-nursery-teachers-college",
+    "name": "Kakoba Nursery Teachers College",
+    "overview": "Kakoba Nursery Teachers College is a Private institution located in Mbarara affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-88-kiyoora-primary-teachers-college",
+    "name": "Kiyoora Primary Teachers College",
+    "overview": "Kiyoora Primary Teachers College is a Private institution located in Ntungamo affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-89-koboko-child-care-nursery-teachers-train",
+    "name": "Koboko Child Care Nursery Teachers Training Institute",
+    "overview": "Koboko Child Care Nursery Teachers Training Institute is a Private institution located in Koboko affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-90-lady-valeria-vocational-and-business-cen",
+    "name": "Lady Valeria Vocational and Business Centre- Matugga",
+    "overview": "Lady Valeria Vocational and Business Centre- Matugga is a Private institution located in Matugga affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-91-lifter-ecd-teachers-training-institute",
+    "name": "Lifter ECD Teachers Training Institute",
+    "overview": "Lifter ECD Teachers Training Institute is a Private institution located in Sironko affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-92-lodonga-primary-teachers-college",
+    "name": "Lodonga Primary Teachers College",
+    "overview": "Lodonga Primary Teachers College is a Private institution located in Yumbe affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Education Early Childhood development and Diploma in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-93-misanvu-nursery-teachers-college",
+    "name": "Misanvu Nursery Teachers College",
+    "overview": "Misanvu Nursery Teachers College is a Private institution located in Masaka affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-94-multi-skill-college-gulu",
+    "name": "Multi-Skill College, Gulu",
+    "overview": "Multi-Skill College, Gulu is a Private institution located in Gulu affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-95-namutamba-primary-teachers-college",
+    "name": "Namutamba Primary Teachers College",
+    "overview": "Namutamba Primary Teachers College is a Private institution located in Namutamba affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-96-rwenzori-college-of-commerce-kasese",
+    "name": "Rwenzori College of Commerce, Kasese",
+    "overview": "Rwenzori College of Commerce, Kasese is a Private institution located in Kasese affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-97-st-maria-goretti-ecd-training-centre-muk",
+    "name": "St. Maria Goretti ECD Training Centre Mukono",
+    "overview": "St. Maria Goretti ECD Training Centre Mukono is a Private institution located in Mukono affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-98-st-charles-lwanga-ecd-institute",
+    "name": "St. Charles Lwanga ECD Institute",
+    "overview": "St. Charles Lwanga ECD Institute is a Private institution located in Manafwa affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-99-west-nile-institute-of-nursery-teachers-",
+    "name": "West Nile Institute of Nursery Teachers Education, Arua",
+    "overview": "West Nile Institute of Nursery Teachers Education, Arua is a Private institution located in Arua affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-100-kibuli-primary-teachers-college",
+    "name": "Kibuli Primary Teachers College",
+    "overview": "Kibuli Primary Teachers College is a Private institution located in Kampala affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-101-grace-early-childhood-development-centre",
+    "name": "Grace Early Childhood Development Centre",
+    "overview": "Grace Early Childhood Development Centre is a Private institution located in Soroti affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-102-busia-ptc",
+    "name": "Busia PTC",
+    "overview": "Busia PTC is a Private institution located in Busia affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-103-butiru-christian-ptc",
+    "name": "Butiru Christian PTC",
+    "overview": "Butiru Christian PTC is a Private institution located in Manafwa affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-104-kamuli-ptc",
+    "name": "Kamuli PTC",
+    "overview": "Kamuli PTC is a Private institution located in Kamuli affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-105-kaliro-ptc",
+    "name": "Kaliro PTC",
+    "overview": "Kaliro PTC is a Private institution located in Kaliro affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-106-bulera-ptc",
+    "name": "Bulera PTC",
+    "overview": "Bulera PTC is a Private institution located in Hoima affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-107-ywca",
+    "name": "YWCA",
+    "overview": "YWCA is a Private institution located in Kampala affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-108-st-agnes-nursery-institute",
+    "name": "St.Agnes Nursery Institute",
+    "overview": "St.Agnes Nursery Institute is a Private institution located in Masaka affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-109-treasure-ptc",
+    "name": "Treasure PTC",
+    "overview": "Treasure PTC is a Private institution located in Lira affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-110-kabwangasi-ptc",
+    "name": "Kabwangasi PTC",
+    "overview": "Kabwangasi PTC is a Private institution located in Mbale affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-111-paidha-ptc",
+    "name": "Paidha PTC",
+    "overview": "Paidha PTC is a Private institution located in Zombo affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-112-ntc-unyama",
+    "name": "NTC Unyama",
+    "overview": "NTC Unyama is a Private institution located in Gulu affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-113-ymca-college-of-business-studies",
+    "name": "YMCA College of Business Studies",
+    "overview": "YMCA College of Business Studies is a Private institution located in Jinja affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-114-kabalega-college-masindi",
+    "name": "Kabalega College Masindi",
+    "overview": "Kabalega College Masindi is a Private institution located in Masindi affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Ceritifcate in Teacher Education for Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-115-national-instructors-college-abilonino",
+    "name": "National Instructors College, Abilonino",
+    "overview": "National Instructors College, Abilonino is a Public institution located in Kole affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Diploma in Instructor and Technical Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-116-nakawa-vocational-institute-nakawa-kampa",
+    "name": "Nakawa Vocational Institute, Nakawa-Kampala",
+    "overview": "Nakawa Vocational Institute, Nakawa-Kampala is a PPublic institution located in Kampala affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Diploma in Instructor and Technical Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-117-jinja-vocational-training-institute",
+    "name": "Jinja Vocational Training Institute",
+    "overview": "Jinja Vocational Training Institute is a Public institution located in Jinja affiliated to Kyambogo University with affiliation status: Extension (Gov’t). It offers: Diploma in Instructor and Technical Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-118-acct-kabale",
+    "name": "ACCT, Kabale",
+    "overview": "ACCT, Kabale is a Private institution located in Kabale affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Diploma in Instructor and Technical Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-119-kalliote-kal",
+    "name": "Kalliote (KAL)",
+    "overview": "Kalliote (KAL) is a Private institution located in Kampala affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Diploma in Instructor and Technical Teacher Education.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-120-ucc-kabale",
+    "name": "UCC, Kabale",
+    "overview": "UCC, Kabale is a Public institution located in Kabale affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Bachelor of Science in Accounting and Finance.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-121-african-international-christian-ministry",
+    "name": "African International Christian Ministry, Kabale",
+    "overview": "African International Christian Ministry, Kabale is a Private institution located in Kabale affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Diploma in Building and Civil Engineering.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  },
+  {
+    "id": "aff-122-multitech-business-school",
+    "name": "Multitech business school",
+    "overview": "Multitech business school is a Private institution located in Kampala affiliated to Kyambogo University with affiliation status: Affiliated. It offers: Diploma in Fashion and Design, Diploma in Education Early Childhood Development.",
+    "structure": "",
+    "admission_requirements": "",
+    "career_prospects": ""
+  }
+]
