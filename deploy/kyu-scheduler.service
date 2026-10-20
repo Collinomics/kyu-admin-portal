@@ -1,0 +1,15 @@
+[Unit]
+Description=Kyambogo PCS Laravel scheduler
+After=network.target postgresql.service
+
+[Service]
+User=ubuntu
+Group=www-data
+WorkingDirectory=/var/www/kyu-portal/backend
+ExecStart=/usr/bin/php artisan schedule:work
+Restart=always
+RestartSec=5
+Nice=5
+
+[Install]
+WantedBy=multi-user.target

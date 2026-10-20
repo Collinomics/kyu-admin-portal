@@ -1,0 +1,135 @@
+/* Chart chrome — legend, tooltip, line keys, scale legend, meter.
+   Mark specs live in the SVG components; this is the HTML around them. */
+
+.chart-body {
+  min-width: 0;
+}
+
+/* legend — line keys for lines, swatches for bars; text in ink, never series color */
+.lac-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 16px;
+  margin-bottom: 6px;
+}
+
+.lac-legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 0.76rem;
+  font-weight: 600;
+  color: var(--ink-2);
+}
+
+.line-key {
+  display: inline-block;
+  width: 14px;
+  height: 3px;
+  border-radius: 2px;
+  flex: none;
+}
+
+.swatch {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 3px;
+  flex: none;
+}
+
+.swatch.sm {
+  width: 8px;
+  height: 8px;
+}
+
+/* tooltip — one readout for all series at the hovered x */
+.chart-tip {
+  position: absolute;
+  z-index: 5;
+  pointer-events: none;
+  min-width: 120px;
+  max-width: min(220px, calc(100vw - 48px));
+  padding: 8px 11px;
+  border-radius: 10px;
+  background: var(--ink-1);
+  color: var(--page);
+  box-shadow: 0 6px 18px rgba(11, 11, 11, 0.25);
+  font-size: 0.76rem;
+}
+
+.chart-tip .tip-x {
+  font-weight: 700;
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.35);
+  white-space: nowrap;
+}
+
+.chart-tip .tip-row {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  padding: 1.5px 0;
+  white-space: nowrap;
+}
+
+.chart-tip .tip-row .tip-label {
+  color: inherit;
+  opacity: 0.75;
+  flex: 1;
+}
+
+.chart-tip .tip-row .tip-value {
+  font-weight: 750;
+  font-variant-numeric: tabular-nums;
+  margin-left: auto;
+}
+
+.chart-tip .tip-row.total {
+  border-top: 1px solid rgba(128, 128, 128, 0.35);
+  margin-top: 4px;
+  padding-top: 5px;
+}
+
+/* heatmap scale legend */
+.scale-legend {
+  position: absolute;
+  right: 8px;
+  bottom: 2px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.scale-swatch {
+  width: 14px;
+  height: 10px;
+  border-radius: 3px;
+}
+
+/* meter */
+.meter {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.meter-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 10px;
+}
+
+.meter-track {
+  height: 8px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.meter-fill {
+  height: 100%;
+  border-radius: 5px;
+  transition: width 400ms ease, background-color 300ms ease;
+}

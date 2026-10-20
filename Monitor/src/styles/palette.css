@@ -1,0 +1,162 @@
+/* ==========================================================================
+   Kyambogo Monitor — palette tokens (documented instance: docs/palette.md)
+   Every series/ramp value validated with scripts/validate_palette.js on
+   2026-08-26 (record: docs/validation.md). Do not change without re-running.
+   ========================================================================== */
+
+:root {
+  color-scheme: light;
+
+  /* -- brand chrome ------------------------------------------------------ */
+  --brand-blue: #1b5ea9;           /* chrome: buttons, navbar */
+  --brand-blue-hover: #175091;
+  --brand-blue-deep: #13447c;
+  --brand-accent: #1b5ea9;         /* accent text, links, focus */
+  --brand-amber: #f8b13a;
+  --brand-amber-hover: #e6a22b;
+  --on-brand: #ffffff;             /* 6.52:1 on --brand-blue */
+
+  /* -- surfaces ----------------------------------------------------------- */
+  --page: #f9f9f7;
+  --surface-1: #fcfcfb;            /* chart surface / card */
+  --surface-hover: #f3f2ee;
+  --navbar-surface: #1b5ea9;
+
+  /* -- ink ---------------------------------------------------------------- */
+  --ink-1: #0b0b0b;
+  --ink-2: #52514e;
+  --ink-3: #898781;
+  --active-wash: rgba(27, 94, 169, 0.10); /* selected nav background */
+
+  /* -- chart furniture ---------------------------------------------------- */
+  --gridline: #e1e0d9;
+  --baseline: #c3c2b7;
+  --border: rgba(11, 11, 11, 0.10);
+  --delta-up: #006300;
+  --deemph: #a6a49b;               /* de-emphasis series / sparklines */
+
+  /* -- categorical series (fixed order, never cycled) ---------------------- */
+  --series-1: #1b5ea9;             /* blue — brand */
+  --series-2: #d98a13;             /* gold — amber family, stepped into band */
+  --series-3: #1baf7a;             /* aqua */
+
+  /* -- ordinal ramp (heatmap bins) ----------------------------------------- */
+  --ramp-1: #8dadd4;
+  --ramp-2: #6690c5;
+  --ramp-3: #4377b7;
+  --ramp-4: #1b5ea9;
+
+  /* -- status (fixed — never themed; always icon + label) ------------------ */
+  --status-good: #0ca30c;
+  --status-warning: #fab219;
+  --status-serious: #ec835a;
+  --status-critical: #d03b3b;
+
+  /* -- soft fills (same hue, ~10% opacity wash for areas) ------------------- */
+  --series-1-wash: rgba(27, 94, 169, 0.10);
+  --series-2-wash: rgba(217, 138, 19, 0.10);
+  --series-3-wash: rgba(27, 175, 122, 0.10);
+  --status-good-wash: rgba(12, 163, 12, 0.10);
+  --status-critical-wash: rgba(208, 59, 59, 0.10);
+
+  /* -- misc ---------------------------------------------------------------- */
+  --shadow-card: 0 1px 2px rgba(11, 11, 11, 0.05);
+  --focus-ring: 0 0 0 3px rgba(27, 94, 169, 0.28);
+}
+
+/* Dark theme — its own selected steps, not an automatic flip.
+   Two scopes: OS preference, and the viewer's [data-theme] toggle which must
+   win both ways. */
+@media (prefers-color-scheme: dark) {
+  :root:where(:not([data-theme="light"])) {
+    color-scheme: dark;
+
+    --brand-blue: #1b5ea9;
+    --brand-blue-hover: #175091;
+    --brand-blue-deep: #13447c;
+    --brand-accent: #2d76cd;
+    --brand-amber: #f8b13a;
+    --brand-amber-hover: #ffc156;
+    --on-brand: #ffffff;
+
+    --page: #0d0d0d;
+    --surface-1: #1a1a19;
+    --surface-hover: #232323;
+    --navbar-surface: #13447c;
+
+    --ink-1: #ffffff;
+    --ink-2: #c3c2b7;
+    --ink-3: #898781;
+    --active-wash: rgba(45, 118, 205, 0.18); /* selected nav background */
+
+    --gridline: #2c2c2a;
+    --baseline: #383835;
+    --border: rgba(255, 255, 255, 0.10);
+    --delta-up: #0ca30c;
+    --deemph: #6b6b68;
+
+    --series-1: #2d76cd;
+    --series-2: #c98500;
+    --series-3: #199e70;
+
+    --ramp-1: #546a85;
+    --ramp-2: #6480a3;
+    --ramp-3: #7497c3;
+    --ramp-4: #bed3ec;
+
+    --series-1-wash: rgba(45, 118, 205, 0.10);
+    --series-2-wash: rgba(201, 133, 0, 0.10);
+    --series-3-wash: rgba(25, 158, 112, 0.10);
+    --status-good-wash: rgba(12, 163, 12, 0.10);
+    --status-critical-wash: rgba(208, 59, 59, 0.10);
+
+    --shadow-card: none;
+    --focus-ring: 0 0 0 3px rgba(45, 118, 205, 0.35);
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+
+  --brand-blue: #1b5ea9;
+  --brand-blue-hover: #175091;
+  --brand-blue-deep: #13447c;
+  --brand-accent: #2d76cd;
+  --brand-amber: #f8b13a;
+  --brand-amber-hover: #ffc156;
+  --on-brand: #ffffff;
+
+  --page: #0d0d0d;
+  --surface-1: #1a1a19;
+  --surface-hover: #232323;
+  --navbar-surface: #13447c;
+
+  --ink-1: #ffffff;
+  --ink-2: #c3c2b7;
+  --ink-3: #898781;
+  --active-wash: rgba(45, 118, 205, 0.18); /* selected nav background */
+
+  --gridline: #2c2c2a;
+  --baseline: #383835;
+  --border: rgba(255, 255, 255, 0.10);
+  --delta-up: #0ca30c;
+  --deemph: #6b6b68;
+
+  --series-1: #2d76cd;
+  --series-2: #c98500;
+  --series-3: #199e70;
+
+  --ramp-1: #546a85;
+  --ramp-2: #6480a3;
+  --ramp-3: #7497c3;
+  --ramp-4: #bed3ec;
+
+  --series-1-wash: rgba(45, 118, 205, 0.10);
+  --series-2-wash: rgba(201, 133, 0, 0.10);
+  --series-3-wash: rgba(25, 158, 112, 0.10);
+  --status-good-wash: rgba(12, 163, 12, 0.10);
+  --status-critical-wash: rgba(208, 59, 59, 0.10);
+
+  --shadow-card: none;
+  --focus-ring: 0 0 0 3px rgba(45, 118, 205, 0.35);
+}
