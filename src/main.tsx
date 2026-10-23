@@ -1,5 +1,6 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
+import 'bootstrap/dist/css/bootstrap.min.css'
 import '@fontsource/poppins/latin-600.css'
 import '@fontsource/poppins/latin-700.css'
 import '@fontsource/poppins/latin-800.css'

@@ -1,0 +1,135 @@
+.programme-section-navigation {
+  border-bottom: 1px solid #dee2e6;
+}
+
+.programme-section-tabs .nav-link {
+  border: 1px solid #dce3eb;
+  background: #fff;
+  color: #526174;
+  white-space: nowrap;
+}
+
+.programme-section-tabs .nav-link:hover,
+.programme-section-tabs .nav-link:focus-visible {
+  border-color: #9db9d7;
+  background: #f1f6fb;
+  color: #0e3f73;
+}
+
+.programme-section-number {
+  color: #8290a1;
+  font-size: 0.65rem;
+}
+
+.programme-details-bootstrap .breadcrumb-item,
+.programme-details-bootstrap .breadcrumb-item a,
+.programme-breadcrumb-link {
+  color: #0e3f73;
+  text-decoration: none;
+}
+
+.programme-details-bootstrap .breadcrumb-item.active {
+  color: #64748b;
+}
+
+.programme-breadcrumb-link {
+  padding: 0;
+  border: 0;
+  background: none;
+}
+
+.programme-details-bootstrap .breadcrumb-item a:hover,
+.programme-breadcrumb-link:hover {
+  color: #1b5ea9;
+  text-decoration: underline;
+}
+
+.programme-section-card {
+  overflow: hidden;
+  border-color: #dfe5ed;
+  border-radius: 0.85rem;
+  box-shadow: 0 0.15rem 0.6rem rgb(15 23 42 / 5%);
+  transition: box-shadow 180ms ease, border-color 180ms ease;
+}
+
+.programme-section-card:hover {
+  border-color: #c7d5e5;
+  box-shadow: 0 0.4rem 1.1rem rgb(15 23 42 / 9%);
+}
+
+.programme-section-toggle {
+  min-height: 4.5rem;
+  border: 0;
+  border-bottom: 1px solid #edf0f4;
+  background: #fff;
+  color: #0e3f73;
+  padding: 1rem 1.25rem;
+}
+
+.programme-section-toggle:hover {
+  background: #f8fafc;
+}
+
+.programme-section-toggle:focus-visible,
+.programme-section-sidebar-link:focus-visible {
+  outline: 3px solid rgb(248 177 58 / 72%);
+  outline-offset: 2px;
+}
+
+.programme-section-index {
+  min-width: 2.25rem;
+  min-height: 2.25rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.75rem;
+}
+
+.programme-section-chevron {
+  width: 2.4rem;
+  height: 2.4rem;
+  border: 1px solid #cfe0f2;
+  background: #eff6ff;
+  color: #0e3f73;
+}
+
+.programme-section-collapse .card-body {
+  padding: 1.25rem;
+}
+
+.programme-detail-sidebar {
+  position: sticky;
+  top: 10.25rem;
+}
+
+.programme-section-sidebar-link {
+  border: 0;
+  background: transparent;
+  color: #526174;
+}
+
+.programme-section-sidebar-link:hover {
+  background: #eff6ff;
+  color: #0e3f73;
+}
+
+@media (min-width: 640px) {
+  .programme-section-toggle {
+    pointer-events: none;
+    padding: 1.25rem 1.5rem;
+  }
+
+  .programme-section-collapse {
+    grid-template-rows: 1fr !important;
+  }
+
+  .programme-section-collapse .card-body {
+    padding: 1.5rem;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .programme-detail-sidebar {
+    position: static;
+  }
+}

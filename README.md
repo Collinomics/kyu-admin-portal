@@ -7,6 +7,8 @@ admissions calls, audit history, and AI-assistant monitoring.
 
 - The React/TypeScript application serves the public programme catalogue at `/`
   and the authenticated staff portal under `/admin`.
+- The public catalogue programme detail uses Bootstrap's responsive grid,
+  cards, navigation and breadcrumb components alongside the existing KYU theme.
 - Core staff modules and the public catalogue use the Laravel API and shared
   Supabase database; published programmes are the public source of truth.
 - The supplied AI monitor is embedded under `/admin/ai-monitor` with isolated styles.

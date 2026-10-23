@@ -13,6 +13,7 @@ import { useToast } from '../../components/ui/KyToast';
 import { DEFAULT_PUBLIC_CATALOGUE_SETTINGS, type PublicCatalogueSettings } from '../settings/settingsService';
 import { useBackgroundRefresh } from '../../hooks/useBackgroundRefresh';
 import { prefetchApi } from '../../services/api';
+import './catalogue-bootstrap.css';
 
 const PublicAiWidget = lazy(() => import('./PublicAiWidget'));
 const EMPTY: CatalogueResponse = {
@@ -291,9 +292,9 @@ function ProgrammeDetails({ programme, configuration, bookmarked, onBookmark, on
   const detailRef = useRef<HTMLDivElement>(null);
   const meta = appStatus(programme);
   const sections = [
-    ['Overview', programme.overview], ['Objective & impact', programme.objective_impact],
-    ['Philosophy & originality', programme.philosophy_originality], ['Career prospects', programme.career_prospects],
-    ['Admission requirements', programme.admission_requirements], ['Structure & content', programme.structure_content],
+    ['Overview', programme.overview], ['Objective / Impact', programme.objective_impact],
+    ['Philosophy & Originality', programme.philosophy_originality], ['Career Prospects', programme.career_prospects],
+    ['Admission Requirements', programme.admission_requirements], ['Structure & Content / Units', programme.structure_content],
   ].filter(([, content]) => content?.trim());
   const unitColour = programme.faculty_id ? configuration.academicUnitColours[programme.faculty_id] : undefined;
   const accent = unitColour && /^#[0-9a-f]{6}$/i.test(unitColour) ? unitColour : '#0E3F73';
@@ -332,23 +333,30 @@ function ProgrammeDetails({ programme, configuration, bookmarked, onBookmark, on
       </div>
     </section>
 
-    {sections.length > 1 && <nav id="programme-section-navigation" aria-label="Programme information sections" className="sticky top-[88px] z-[15] border-b border-slate-200 bg-white/95 py-3 shadow-sm backdrop-blur before:pointer-events-none before:absolute before:inset-x-0 before:bottom-full before:h-5 before:bg-white"><div className="overflow-x-auto px-4 sm:px-6"><div className="programme-section-tabs mx-auto flex w-full max-w-7xl gap-2">{sections.map(([heading], index) => <button data-reveal key={heading} onClick={() => scrollToSection(heading)} className="inline-flex shrink-0 items-center gap-2 rounded-full border border-slate-200 bg-white px-3 py-1.5 text-xs font-bold text-slate-600 hover:border-blue-300 hover:text-[#0E3F73]"><span className="text-[9px] text-slate-400">{String(index + 1).padStart(2, '0')}</span>{heading}</button>)}</div></div></nav>}
+    {sections.length > 1 && <nav id="programme-section-navigation" aria-label="Programme information sections" className="programme-section-navigation sticky top-[88px] z-[15] border-bottom bg-white/95 py-3 shadow-sm backdrop-blur before:pointer-events-none before:absolute before:inset-x-0 before:bottom-full before:h-5 before:bg-white"><div className="container-xxl overflow-x-auto px-4"><div className="programme-section-tabs nav nav-pills flex-nowrap gap-2">{sections.map(([heading], index) => <button data-reveal type="button" key={heading} onClick={() => scrollToSection(heading)} className="nav-link inline-flex shrink-0 items-center gap-2 rounded-pill border px-3 py-2 text-xs fw-bold"><span className="programme-section-number">{String(index + 1).padStart(2, '0')}</span>{heading}</button>)}</div></div></nav>}
 
-    <main className="mx-auto max-w-7xl px-4 py-7 sm:px-6 sm:py-10">
-      <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_330px] lg:gap-8">
-        <article className="order-1 space-y-4">
+    <main className="programme-details-bootstrap container-xxl py-4 py-lg-5">
+      <nav aria-label="Breadcrumb" className="mb-4">
+        <ol className="breadcrumb mb-0 small">
+          <li className="breadcrumb-item"><a href="https://kyu.ac.ug/" target="_blank" rel="noreferrer">Home</a></li>
+          <li className="breadcrumb-item"><button type="button" onClick={onClose} className="programme-breadcrumb-link">Programme Catalogue</button></li>
+          <li className="breadcrumb-item active" aria-current="page">{programme.name}</li>
+        </ol>
+      </nav>
+      <div className="row g-4">
+        <article className="col-lg-8 order-1">
           {sections.length ? sections.map(([heading, content], index) => {
             const expanded = openSections.has(heading);
-            return <section data-reveal id={sectionId(heading)} key={heading} className="scroll-mt-[168px] overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition hover:shadow-md">
-              <button type="button" onClick={() => toggleSection(heading)} aria-expanded={expanded} aria-controls={`${sectionId(heading)}-content`} aria-label={`${expanded ? 'Collapse' : 'Expand'} ${heading}`} className="flex w-full items-center justify-between gap-4 p-5 text-left sm:pointer-events-none sm:p-7">
-                <span className="flex items-center gap-3"><span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl text-xs font-extrabold text-white" style={{ backgroundColor: accent }}>{String(index + 1).padStart(2, '0')}</span><h2 className="text-lg font-bold text-[#0E3F73] sm:text-xl">{heading}</h2></span>
-                <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-blue-200 bg-blue-50 text-[#0E3F73] shadow-sm transition hover:border-blue-300 hover:bg-blue-100 sm:hidden" aria-hidden="true"><ChevronDown size={22} strokeWidth={2.5} className={`transition-transform duration-300 ${expanded ? 'rotate-180' : ''}`} /></span>
+            return <section data-reveal id={sectionId(heading)} key={heading} className="programme-section-card card mb-3 scroll-mt-[168px]">
+              <button type="button" onClick={() => toggleSection(heading)} aria-expanded={expanded} aria-controls={`${sectionId(heading)}-content`} aria-label={`${expanded ? 'Collapse' : 'Expand'} ${heading}`} className="programme-section-toggle card-header d-flex w-100 align-items-center justify-content-between gap-3 text-start">
+                <span className="d-flex align-items-center gap-3"><span className="programme-section-index badge rounded-pill" style={{ backgroundColor: accent }}>{String(index + 1).padStart(2, '0')}</span><span className="h5 mb-0 fw-bold">{heading}</span></span>
+                <span className="programme-section-chevron d-flex d-sm-none align-items-center justify-content-center rounded-circle" aria-hidden="true"><ChevronDown size={22} strokeWidth={2.5} className={`transition-transform duration-300 ${expanded ? 'rotate-180' : ''}`} /></span>
               </button>
-              <div id={`${sectionId(heading)}-content`} className={`grid transition-[grid-template-rows] duration-300 sm:grid-rows-[1fr] ${expanded ? 'grid-rows-[1fr]' : 'grid-rows-[0fr]'}`}><div className="overflow-hidden"><div className="border-t border-slate-100 px-5 pb-6 pt-5 sm:px-7 sm:pb-7"><ProgrammeContent content={content} /></div></div></div>
+              <div id={`${sectionId(heading)}-content`} className={`programme-section-collapse grid transition-[grid-template-rows] duration-300 sm:grid-rows-[1fr] ${expanded ? 'grid-rows-[1fr]' : 'grid-rows-[0fr]'}`}><div className="overflow-hidden"><div className="card-body"><ProgrammeContent content={content} /></div></div></div>
             </section>;
-          }) : <section className="rounded-2xl border border-slate-200 bg-white p-8 text-center text-slate-500">More programme information will be published here.</section>}
+          }) : <section className="card p-4 text-center text-secondary">More programme information will be published here.</section>}
         </article>
-        <aside className="order-2 h-fit space-y-4 lg:sticky lg:top-[164px] lg:self-start"><ApplicationPanel programme={programme} configuration={configuration} accent={accent} duration={duration} onAskAi={onAskAi} onViewRequirements={() => scrollToSection('Admission requirements')} />{sections.length > 1 && <nav aria-label="Explore this programme" className="hidden rounded-2xl border border-slate-200 bg-white p-5 shadow-sm lg:block"><p className="text-[10px] font-extrabold uppercase tracking-[0.15em] text-slate-400">Explore this programme</p><ul className="mt-3 space-y-1">{sections.map(([heading]) => <li key={heading}><button onClick={() => scrollToSection(heading)} className="block w-full rounded-lg px-3 py-2 text-left text-xs font-bold text-slate-600 hover:bg-blue-50 hover:text-[#0E3F73]">{heading}</button></li>)}</ul></nav>}<div className="hidden rounded-2xl border border-blue-100 bg-blue-50 p-5 text-sm text-blue-950 lg:block"><ShieldCheck size={20} /><p className="mt-2 font-bold">Verified programme record</p><p className="mt-1 text-xs leading-5 text-blue-800">Published directly from the governed PCS approval workflow.</p></div></aside>
+        <aside className="col-lg-4 order-2"><div className="programme-detail-sidebar d-flex flex-column gap-3"><ApplicationPanel programme={programme} configuration={configuration} accent={accent} duration={duration} onAskAi={onAskAi} onViewRequirements={() => scrollToSection('Admission Requirements')} />{sections.length > 1 && <nav aria-label="Explore this programme" className="card d-none d-lg-block p-3"><p className="mb-2 small fw-bold text-uppercase text-secondary">Explore this programme</p><ul className="list-unstyled mb-0">{sections.map(([heading]) => <li key={heading}><button onClick={() => scrollToSection(heading)} className="programme-section-sidebar-link w-100 rounded px-3 py-2 text-start small fw-bold">{heading}</button></li>)}</ul></nav>}<div className="alert alert-primary d-none d-lg-block mb-0"><ShieldCheck size={20} /><p className="mt-2 mb-1 fw-bold">Verified programme record</p><p className="mb-0 small">Published directly from the governed PCS approval workflow.</p></div></div></aside>
       </div>
       <RelatedProgrammes programme={programme} configuration={configuration} accent={accent} onOpen={onOpenProgramme} />
     </main>
