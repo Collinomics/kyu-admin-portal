@@ -1,5 +1,5 @@
 import type { ReactNode } from 'react';
-import kyuLogo from '../../../assets/kyu-logo.png';
+import kyuLogo from '../../../../support/kyu_logo.png';
 
 interface Props {
   title: string;

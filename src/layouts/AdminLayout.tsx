@@ -8,7 +8,7 @@ import { navSections } from '../routes/navigation';
 import SessionGuard from '../components/SessionGuard';
 import GlobalSearch from '../components/GlobalSearch';
 import NotificationBell from '../components/NotificationBell';
-import kyuLogo from '../assets/kyu-logo.png';
+import kyuLogo from '../../support/kyu_logo.png';
 import { fetchRuntimeSettings, type RuntimeSettings } from '../features/settings/settingsService';
 import { BackgroundRefreshProvider, type BackgroundRefreshPolicy } from '../hooks/useBackgroundRefresh';
 import { prefetchAdminRoute } from '../services/routePrefetch';

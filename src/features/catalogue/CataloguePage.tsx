@@ -8,7 +8,7 @@ import {
 import { fetchCatalogue, fetchCatalogueRevision, fetchPublicProgramme } from './catalogueService';
 import type { CatalogueResponse, PublicProgramme } from './types';
 import { UNIVERSITY } from '../../utils/university';
-import kyuLogo from '../../assets/kyu-logo.png';
+import kyuLogo from '../../../support/kyu_logo.png';
 import { useToast } from '../../components/ui/KyToast';
 import { DEFAULT_PUBLIC_CATALOGUE_SETTINGS, type PublicCatalogueSettings } from '../settings/settingsService';
 import { useBackgroundRefresh } from '../../hooks/useBackgroundRefresh';

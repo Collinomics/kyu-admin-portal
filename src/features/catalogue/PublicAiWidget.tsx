@@ -4,7 +4,7 @@ import { Bot, Check, Copy, Download, Maximize2, RefreshCw, Send, Share2, ShieldC
 import ReactMarkdown from 'react-markdown';
 import remarkBreaks from 'remark-breaks';
 import remarkGfm from 'remark-gfm';
-import kyuLogo from '../../assets/kyu-logo.png';
+import kyuLogo from '../../../support/kyu_logo.png';
 import type { PublicProgramme } from './types';
 import {
   askAssistant, fetchAssistantConfiguration, saveAssistantFeedback,

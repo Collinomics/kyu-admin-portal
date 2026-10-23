@@ -5,7 +5,7 @@ import OtpInput from './components/OtpInput';
 import PasswordChecklist, { isStrongPassword } from './components/PasswordChecklist';
 import KyCountdown from '../../components/ui/KyCountdown';
 import KyButton from '../../components/ui/KyButton';
-import kyuLogo from '../../assets/kyu-logo.png';
+import kyuLogo from '../../../support/kyu_logo.png';
 import { apiFetch } from '../../services/api';
 
 const OTP_LIFETIME = 15 * 60;  // 15 minutes 

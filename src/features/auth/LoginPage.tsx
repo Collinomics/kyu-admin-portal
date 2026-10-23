@@ -7,7 +7,7 @@ import { UNIVERSITY } from '../../utils/university';
 import { consumeAuthNotice } from '../../services/api';
 import KyButton from '../../components/ui/KyButton';
 import KyCountdown from '../../components/ui/KyCountdown';
-import kyuLogo from '../../assets/kyu-logo.png';
+import kyuLogo from '../../../support/kyu_logo.png';
 
 export default function LoginPage() {
   const { user, login } = useAuth();
